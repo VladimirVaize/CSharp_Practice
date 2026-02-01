@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+D:\VisualStudioProjects\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+D:\VisualStudioProjects\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+D:\VisualStudioProjects\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+D:\VisualStudioProjects\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb
