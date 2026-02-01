@@ -1,4 +1,4 @@
-# CSharp_Practice
+# CSharp Practice
 C# tasks and their solutions
 
 ***
