@@ -14,3 +14,7 @@ C# tasks and their solutions
 ## Reference Types (The Magic Forge)
 -  [Task](Tasks/ReferenceTypesTask.txt)
 -  [Decision](PracticeProjects/ReferenceTypes/Program.cs)
+
+## Array Expansion (Dynamic Hero Inventory)
+-  [Task](Tasks/ArrayExpansionTask.txt)
+-  [Decision](PracticeProjects/ArrayExpansion/Program.cs)
