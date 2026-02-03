@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\ArrayExpansion\bin\Debug\ArrayExpansion.exe.config
+D:\VisualStudioProjects\ArrayExpansion\bin\Debug\ArrayExpansion.exe
+D:\VisualStudioProjects\ArrayExpansion\bin\Debug\ArrayExpansion.pdb
+D:\VisualStudioProjects\ArrayExpansion\obj\Debug\ArrayExpansion.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\ArrayExpansion\obj\Debug\ArrayExpansion.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ArrayExpansion\obj\Debug\ArrayExpansion.exe
+D:\VisualStudioProjects\ArrayExpansion\obj\Debug\ArrayExpansion.pdb
