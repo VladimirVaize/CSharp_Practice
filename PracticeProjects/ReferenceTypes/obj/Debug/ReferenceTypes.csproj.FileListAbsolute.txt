@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+D:\VisualStudioProjects\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+D:\VisualStudioProjects\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+D:\VisualStudioProjects\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+D:\VisualStudioProjects\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
