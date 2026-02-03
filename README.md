@@ -7,6 +7,10 @@ C# tasks and their solutions
 -  [Task](Tasks/ArrayTask.txt)
 -  [Decision](PracticeProjects/Arrays/Program.cs)
 
-## MultidimensionalArray (TileSwap Puzzle)
+## Multidimensional Array (TileSwap Puzzle)
 -  [Task](Tasks/MultidimensionalArrayTask.txt)
 -  [Decision](PracticeProjects/MultidimensionalArrays/Program.cs)
+
+## Reference Types (The Magic Forge)
+-  [Task](Tasks/ReferenceTypesTask.txt)
+-  [Decision](PracticeProjects/ReferenceTypes/Program.cs)
