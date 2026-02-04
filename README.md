@@ -6,11 +6,11 @@
 **Технологии:** .NET, C#
 ***
 ## Оглавление
-- [Array](#Array)
-- [Multidimensional Array](#Multidimensional-Array)
-- [Reference Types](#Reference-Types)
-- [Array Expansion](#Array-Expansion)
-- [The Foreach Cycle](#The-Foreach-Cycle)
+- [Array](#array-a-system-for-calculating-loot-loss-from-enemies)
+- [Multidimensional Array](#multidimensional-array-tileswap-puzzle)
+- [Reference Types](#reference-types-the-magic-forge)
+- [Array Expansion](#array-expansion-dynamic-hero-inventory)
+- [The Foreach Cycle](#the-foreach-cycle-inventory-and-item-application-system)
 
 ## Array (A system for calculating loot loss from enemies)
 -  [Task](Tasks/ArrayTask.txt)
