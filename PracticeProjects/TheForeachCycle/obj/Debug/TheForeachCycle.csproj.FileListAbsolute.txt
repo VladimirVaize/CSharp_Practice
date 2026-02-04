@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\TheForeachCycle\bin\Debug\TheForeachCycle.exe.config
+D:\VisualStudioProjects\TheForeachCycle\bin\Debug\TheForeachCycle.exe
+D:\VisualStudioProjects\TheForeachCycle\bin\Debug\TheForeachCycle.pdb
+D:\VisualStudioProjects\TheForeachCycle\obj\Debug\TheForeachCycle.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\TheForeachCycle\obj\Debug\TheForeachCycle.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\TheForeachCycle\obj\Debug\TheForeachCycle.exe
+D:\VisualStudioProjects\TheForeachCycle\obj\Debug\TheForeachCycle.pdb
