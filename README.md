@@ -6,28 +6,18 @@
 **Технологии:** .NET, C#
 ***
 ## Оглавление
-- [Array](#array-a-system-for-calculating-loot-loss-from-enemies)
-- [Multidimensional Array](#multidimensional-array-tileswap-puzzle)
-- [Reference Types](#reference-types-the-magic-forge)
-- [Array Expansion](#array-expansion-dynamic-hero-inventory)
-- [The Foreach Cycle](#the-foreach-cycle-inventory-and-item-application-system)
+- [Массив](#array-a-system-for-calculating-loot-loss-from-enemies)
+- [Двумерный массив](#multidimensional-array-tileswap-puzzle)
+- [Ссылочные типы](#reference-types-the-magic-forge)
+- [Расширение массива](#array-expansion-dynamic-hero-inventory)
+- [Цикл Foreach](#the-foreach-cycle-inventory-and-item-application-system)
 
-## Array (A system for calculating loot loss from enemies)
--  [Task](Tasks/ArrayTask.txt)
--  [Decision](PracticeProjects/Arrays/Program.cs)
+## Список задач и решений
 
-## Multidimensional Array (TileSwap Puzzle)
--  [Task](Tasks/MultidimensionalArrayTask.txt)
--  [Decision](PracticeProjects/MultidimensionalArrays/Program.cs)
-
-## Reference Types (The Magic Forge)
--  [Task](Tasks/ReferenceTypesTask.txt)
--  [Decision](PracticeProjects/ReferenceTypes/Program.cs)
-
-## Array Expansion (Dynamic Hero Inventory)
--  [Task](Tasks/ArrayExpansionTask.txt)
--  [Decision](PracticeProjects/ArrayExpansion/Program.cs)
-
-## The Foreach Cycle (Inventory and item application system)
--  [Task](Tasks/TheForeachCycleTask.txt)
--  [Decision](PracticeProjects/TheForeachCycle/Program.cs)
+| № | Проект / Тема | Краткое описание задачи | Ссылки |
+|---|---------------|-------------------------|--------|
+| 1 | **Массив**     | Система подсчета лута с врагов. | [Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs) |
+| 2 | **Двумерный массив** | Головоломка "Пятнашки" (TileSwap). | [Условие](Tasks/MultidimensionalArrayTask.txt) \| [Решение](PracticeProjects/MultidimensionalArrays/Program.cs) |
+| 3 | **Ссылочные типы** | "Волшебная кузница" — система крафта. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
+| 4 | **Расширение массива** | Динамический инвентарь героя. | [Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs) |
+| 5 | **Цикл Foreach** | Система инвентаря и применения предметов | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
