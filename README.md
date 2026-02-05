@@ -20,11 +20,11 @@
 
 | № | Проект / Тема | Краткое описание задачи | Ссылки |
 |---|---------------|-------------------------|--------|
-| 1 | **Массив**     | Система подсчета лута с врагов. | [Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs) |
+| 1 | **Массив**     | Система дропа лута с монстров. | [Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs) |
 | 2 | **Двумерный массив** | Головоломка "Пятнашки" (TileSwap). | [Условие](Tasks/MultidimensionalArrayTask.txt) \| [Решение](PracticeProjects/MultidimensionalArrays/Program.cs) |
-| 3 | **Ссылочные типы** | "Волшебная кузница" — система крафта. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
+| 3 | **Ссылочные типы** | Система инвентаря и модификации предметов. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
 | 4 | **Расширение массива** | Динамический инвентарь героя. | [Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs) |
-| 5 | **Цикл Foreach** | Система инвентаря и применения предметов | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
+| 5 | **Цикл Foreach** | Система инвентаря и применения предметов. | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
 
 
 
