@@ -25,6 +25,7 @@
 | 3 | **Ссылочные типы** | Система инвентаря и модификации предметов. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
 | 4 | **Расширение массива** | Динамический инвентарь героя. | [Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs) |
 | 5 | **Цикл Foreach** | Система инвентаря и применения предметов. | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
+| 6 | **ref и out** | Система модификации статистики персонажа. | [Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs) |
 
 
 
