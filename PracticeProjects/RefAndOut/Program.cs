@@ -12,7 +12,6 @@ namespace RefAndOut
             Console.WriteLine("=== Исходные характеристики ===");
             playerStats.PrintStats();
 
-
             Console.WriteLine("\n=== Применяем зелье силы ===");
             ApplyPotion(ref playerStats, "strength", 23);
             playerStats.PrintStats();
@@ -29,7 +28,6 @@ namespace RefAndOut
             }
             playerStats.PrintStats();
 
-
             Console.WriteLine("\n=== Меняем местами здоровье и интеллект ===");
             SwapStats(ref playerStats, "health", "intelligence");
             playerStats.PrintStats();
@@ -37,7 +35,6 @@ namespace RefAndOut
 
         static void ApplyPotion(ref CharacterStats stats, string statName, int power)
         {
-
             ref int stat = ref FindStat(ref stats, statName);
             stat += power;
             Console.WriteLine($"Параметр {statName} изменен на {power}. Теперь: {stat}");
@@ -119,3 +116,4 @@ namespace RefAndOut
         }
     }
 }
+
