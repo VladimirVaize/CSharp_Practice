@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\Queue\bin\Debug\Queue.exe.config
+D:\VisualStudioProjects\Queue\bin\Debug\Queue.exe
+D:\VisualStudioProjects\Queue\bin\Debug\Queue.pdb
+D:\VisualStudioProjects\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Queue\obj\Debug\Queue.exe
+D:\VisualStudioProjects\Queue\obj\Debug\Queue.pdb
