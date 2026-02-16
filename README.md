@@ -27,6 +27,7 @@
 | 5 | **Цикл Foreach** | Система инвентаря и применения предметов. | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
 | 6 | **ref и out** | Система модификации статистики персонажа. | [Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs) |
 | 7 | **Перегрузка** | Система расчета урона для RPG | [Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs) |
+| 8 | **List** | Система управления врагами (Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
 
 
 
