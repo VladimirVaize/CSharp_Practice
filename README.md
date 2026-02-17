@@ -28,7 +28,7 @@
 | 6 | **ref и out** | Система модификации статистики персонажа. | [Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs) |
 | 7 | **Перегрузка** | Система расчета урона для RPG | [Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs) |
 | 8 | **List** | Система управления врагами (Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
-| 9 | **Queue** | Система спавна мобов (Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
+| 9 | **Queue - FIFO** | Система спавна мобов (Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
 
 
 
