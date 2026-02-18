@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\Stack\bin\Debug\Stack.exe.config
+D:\VisualStudioProjects\Stack\bin\Debug\Stack.exe
+D:\VisualStudioProjects\Stack\bin\Debug\Stack.pdb
+D:\VisualStudioProjects\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Stack\obj\Debug\Stack.exe
+D:\VisualStudioProjects\Stack\obj\Debug\Stack.pdb
