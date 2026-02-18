@@ -29,6 +29,7 @@
 | 7 | **Перегрузка** | Система расчета урона для RPG | [Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs) |
 | 8 | **List** | Система управления врагами (Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
 | 9 | **Queue - FIFO** | Система спавна мобов (Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
+| 10 | **Stack - FILO** | Система отката действий (Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
 
 
 
