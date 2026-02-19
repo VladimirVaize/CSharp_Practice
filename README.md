@@ -30,7 +30,7 @@
 | 8 | **List** | Система управления врагами (Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
 | 9 | **Queue - FIFO** | Система спавна мобов (Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
 | 10 | **Stack - FILO** | Система отката действий (Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
-| 11 | **Dictionary** | Инвентарь и экономика для RPG "Карточная Коллекционка" | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
+| 11 | **Dictionary** | Инвентарь и экономика для RPG | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
 
 
 
