@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\bin\Debug\RelationshipsAndTypingOOP.exe.config
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\bin\Debug\RelationshipsAndTypingOOP.exe
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\bin\Debug\RelationshipsAndTypingOOP.pdb
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\obj\Debug\RelationshipsAndTypingOOP.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\obj\Debug\RelationshipsAndTypingOOP.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\obj\Debug\RelationshipsAndTypingOOP.exe
+D:\VisualStudioProjects\RelationshipsAndTypingOOP\obj\Debug\RelationshipsAndTypingOOP.pdb
