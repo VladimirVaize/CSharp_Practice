@@ -32,6 +32,7 @@
 | 10 | **Stack - FILO** | Система отката действий (Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
 | 11 | **Dictionary** | Инвентарь и экономика для RPG | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
 | 12 | **Отношения в ООП** | Рефакторинг и реализация "Боевого пса" | [Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs) |
+| 13 | **Абстракция (Полиморфизм)** | Прототип системы квестов | [Условие](Tasks/PolymorphismTask.txt) \| [Решение](PracticeProjects/Polymorphism/Program.cs) |
 
 
 
