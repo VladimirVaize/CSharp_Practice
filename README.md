@@ -20,19 +20,19 @@
 
 | № | Проект / Тема | Краткое описание задачи | Ссылки |
 |---|---------------|-------------------------|--------|
-| 1 | **Массив**     | Система дропа лута с монстров. | <div style="white-space: nowrap;">[Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs)</div> |
-| 2 | **Двумерный массив** | Головоломка "Пятнашки" (TileSwap). | <div style="white-space: nowrap;">[Условие](Tasks/MultidimensionalArrayTask.txt) \| [Решение](PracticeProjects/MultidimensionalArrays/Program.cs)</div> |
-| 3 | **Ссылочные типы** | Система инвентаря и модификации предметов. | <div style="white-space: nowrap;">[Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs)</div> |
-| 4 | **Расширение массива** | Динамический инвентарь героя. | <div style="white-space: nowrap;">[Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs)</div> |
-| 5 | **Цикл Foreach** | Система инвентаря и применения предметов. | <div style="white-space: nowrap;">[Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs)</div> |
-| 6 | **ref и out** | Система модификации статистики персонажа. | <div style="white-space: nowrap;">[Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs)</div> |
-| 7 | **Перегрузка** | Система расчета урона для RPG | <div style="white-space: nowrap;">[Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs)</div> |
-| 8 | **List** | Система управления врагами (Wave Manager) | <div style="white-space: nowrap;">[Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs)</div> |
-| 9 | **Queue - FIFO** | Система спавна мобов (Mobile Spawn Queue) | <div style="white-space: nowrap;">[Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs)</div> |
-| 10 | **Stack - FILO** | Система отката действий (Memory Scrolls History)| <div style="white-space: nowrap;">[Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs)</div> |
-| 11 | **Dictionary** | Инвентарь и экономика для RPG | <div style="white-space: nowrap;">[Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs)</div> |
-| 12 | **Отношения в ООП** | Рефакторинг и реализация "Боевого пса" | <div style="white-space: nowrap;">[Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs)</div> |
-| 13 | <div style="white-space: nowrap;">**Абстракция (Полиморфизм)**</div> | Прототип системы квестов | <div style="white-space: nowrap;">[Условие](Tasks/PolymorphismTask.txt) \| [Решение](PracticeProjects/Polymorphism/Program.cs)</div> |
+| 1 | **Массив**     | Система дропа лута с монстров. | [Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs) |
+| 2 | **Двумерный массив** | Головоломка "Пятнашки" (TileSwap). | [Условие](Tasks/MultidimensionalArrayTask.txt) \| [Решение](PracticeProjects/MultidimensionalArrays/Program.cs) |
+| 3 | **Ссылочные типы** | Система инвентаря <br>и модификации предметов. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
+| 4 | **Расширение массива** | Динамический инвентарь героя. | [Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs) |
+| 5 | **Цикл Foreach** | Система инвентаря <br>и применения предметов. | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
+| 6 | **ref и out** | Система модификации <br>статистики персонажа. | [Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs) |
+| 7 | **Перегрузка** | Система расчета урона для RPG | [Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs) |
+| 8 | **List** | Система управления врагами <br>(Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
+| 9 | **Queue - FIFO** | Система спавна мобов <br>(Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
+| 10 | **Stack - FILO** | Система отката действий <br>(Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
+| 11 | **Dictionary** | Инвентарь и экономика для RPG | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
+| 12 | **Отношения в ООП** | Рефакторинг и реализация "Боевого пса" | [Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs) |
+| 13 | **Абстракция <br>(Полиморфизм)** | Прототип системы квестов | [Условие](Tasks/PolymorphismTask.txt) \| [Решение](PracticeProjects/Polymorphism/Program.cs) |
 
 
 
