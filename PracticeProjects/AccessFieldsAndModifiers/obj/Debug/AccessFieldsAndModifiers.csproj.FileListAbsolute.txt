@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\AccessFieldsAndModifiers\bin\Debug\AccessFieldsAndModifiers.exe.config
+D:\VisualStudioProjects\AccessFieldsAndModifiers\bin\Debug\AccessFieldsAndModifiers.exe
+D:\VisualStudioProjects\AccessFieldsAndModifiers\bin\Debug\AccessFieldsAndModifiers.pdb
+D:\VisualStudioProjects\AccessFieldsAndModifiers\obj\Debug\AccessFieldsAndModifiers.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\AccessFieldsAndModifiers\obj\Debug\AccessFieldsAndModifiers.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AccessFieldsAndModifiers\obj\Debug\AccessFieldsAndModifiers.exe
+D:\VisualStudioProjects\AccessFieldsAndModifiers\obj\Debug\AccessFieldsAndModifiers.pdb
