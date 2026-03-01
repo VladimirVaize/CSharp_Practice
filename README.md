@@ -31,10 +31,11 @@
 | 9 | **Queue - FIFO** | Система спавна мобов <br>(Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
 | 10 | **Stack - FILO** | Система отката действий <br>(Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
 | 11 | **Dictionary** | Инвентарь и экономика для RPG | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
-| 12 | **Отношения в ООП** | Рефакторинг и реализация "Боевого пса" | [Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs) |
+| 12 | **Отношения в ООП** | Рефакторинг и реализация <br>"Боевого пса" | [Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs) |
 | 13 | **Абстракция <br>(Полиморфизм)** | Прототип системы квестов | [Условие](Tasks/PolymorphismTask.txt) \| [Решение](PracticeProjects/Polymorphism/Program.cs) |
 | 14 | **Классы и объекты** | Система прокачки оружия | [Условие](Tasks/ClassesAndObjectsTask.txt) \| [Решение](PracticeProjects/ClassesAndObjects/Program.cs) |
 | 15 | **Поля и модификаторы <br>доступа** | Разработка модуля "Броня Героя" <br>для RPG-игры | [Условие](Tasks/AccessFieldsAndModifiersTask.txt) \| [Решение](PracticeProjects/AccessFieldsAndModifiers/Program.cs) |
+| 16 | **Интерфейсы** | Система взаимодействия <br>с объектами в игре <br>"Космическая база" | [Условие](Tasks/InterfacesTask.txt) \| [Решение](PracticeProjects/Interfaces/Program.cs) |
 
 
 
