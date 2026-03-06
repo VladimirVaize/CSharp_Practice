@@ -38,6 +38,7 @@
 | 16 | **Интерфейсы** | Система взаимодействия <br>с объектами в игре <br>"Космическая база" | [Условие](Tasks/InterfacesTask.txt) \| [Решение](PracticeProjects/Interfaces/Program.cs) |
 | 17 | **Абстрактные классы** | Система магических артефактов | [Условие](Tasks/AbstractClassesTask.txt) \| [Решение](PracticeProjects/AbstractClasses/Program.cs) |
 | 18 | **Структуры** | "Звездный Курьер: <br>Оптимизация данных корабля" | [Условие](Tasks/StructuresTask.txt) \| [Решение](PracticeProjects/Structures/Program.cs) |
+| 19 | **Upcasting и <br>Downcasting** | Система инвентаря для RPG | [Условие](Tasks/UpcastingAndDowncastingTask.txt) \| [Решение](PracticeProjects/UpcastingAndDowncasting/Program.cs) |
 
 
 
