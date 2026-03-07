@@ -39,6 +39,7 @@
 | 17 | **Абстрактные классы** | Система магических артефактов | [Условие](Tasks/AbstractClassesTask.txt) \| [Решение](PracticeProjects/AbstractClasses/Program.cs) |
 | 18 | **Структуры** | "Звездный Курьер: <br>Оптимизация данных корабля" | [Условие](Tasks/StructuresTask.txt) \| [Решение](PracticeProjects/Structures/Program.cs) |
 | 19 | **Upcasting и <br>Downcasting** | Система инвентаря для RPG | [Условие](Tasks/UpcastingAndDowncastingTask.txt) \| [Решение](PracticeProjects/UpcastingAndDowncasting/Program.cs) |
+| 20 | **enum** | Система состояний врага <br>(Enemy AI State Machine) | [Условие](Tasks/EnumTask.txt) \| [Решение](PracticeProjects/Enum/Program.cs) |
 
 
 
