@@ -41,6 +41,7 @@
 | 19 | **Upcasting и <br>Downcasting** | Система инвентаря для RPG | [Условие](Tasks/UpcastingAndDowncastingTask.txt) \| [Решение](PracticeProjects/UpcastingAndDowncasting/Program.cs) |
 | 20 | **enum** | Система состояний врага <br>(Enemy AI State Machine) | [Условие](Tasks/EnumTask.txt) \| [Решение](PracticeProjects/Enum/Program.cs) |
 | 21 | **LINQ** | Система поиска и фильтрации <br>предметов в инвентаре <br>(Inventory System) | [Условие](Tasks/LINQTask.txt) \| [Решение](PracticeProjects/LINQ/Program.cs) |
+| 22 | **Обобщения <br>(Generics)** | Универсальная система <br>пула объектов <br>(Object Pool) для игры | [Условие](Tasks/GenericsTask.txt) \| [Решение](PracticeProjects/Generics/Program.cs) |
 
 
 
