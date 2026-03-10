@@ -42,7 +42,7 @@
 | 20 | **enum** | Система состояний врага <br>(Enemy AI State Machine) | [Условие](Tasks/EnumTask.txt) \| [Решение](PracticeProjects/Enum/Program.cs) |
 | 21 | **LINQ** | Система поиска и фильтрации <br>предметов в инвентаре <br>(Inventory System) | [Условие](Tasks/LINQTask.txt) \| [Решение](PracticeProjects/LINQ/Program.cs) |
 | 22 | **Обобщения <br>(Generics)** | Универсальная система <br>пула объектов <br>(Object Pool) для игры | [Условие](Tasks/GenericsTask.txt) \| [Решение](PracticeProjects/Generics/Program.cs) |
-
+| 23 | **Делегаты и события** | Система достижений <br>(Achievement System) | [Условие](Tasks/DelegatesAndEventsTask.txt) \| [Решение](PracticeProjects/DelegatesAndEvents/Program.cs) |
 
 
 ## 📁 Структура репозитория
