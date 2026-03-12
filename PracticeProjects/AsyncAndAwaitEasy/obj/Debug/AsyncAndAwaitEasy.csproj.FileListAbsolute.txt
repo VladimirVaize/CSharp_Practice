@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\AsyncAndAwaitEasy.exe.config
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\AsyncAndAwaitEasy.exe
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\AsyncAndAwaitEasy.pdb
+D:\VisualStudioProjects\AsyncAndAwaitEasy\obj\Debug\AsyncAndAwaitEasy.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\AsyncAndAwaitEasy\obj\Debug\AsyncAndAwaitEasy.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AsyncAndAwaitEasy\obj\Debug\AsyncAndAwaitEasy.exe
+D:\VisualStudioProjects\AsyncAndAwaitEasy\obj\Debug\AsyncAndAwaitEasy.pdb
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudioProjects\AsyncAndAwaitEasy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VisualStudioProjects\AsyncAndAwaitEasy\obj\Debug\AsyncAnd.E62171BF.Up2Date
