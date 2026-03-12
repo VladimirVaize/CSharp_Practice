@@ -44,7 +44,7 @@
 | 22 | **Обобщения <br>(Generics)** | Универсальная система <br>пула объектов <br>(Object Pool) для игры | [Условие](Tasks/GenericsTask.txt) \| [Решение](PracticeProjects/Generics/Program.cs) |
 | 23 | **Делегаты и события** | Система достижений <br>(Achievement System) | [Условие](Tasks/DelegatesAndEventsTask.txt) \| [Решение](PracticeProjects/DelegatesAndEvents/Program.cs) |
 | 24 | **Async/await** | Асинхронный загрузчик уровней <br>с эмуляцией долгих операций <br>(Async Level Loader) | [Условие](Tasks/AsyncAndAwaitTask.txt) \| [Решение](PracticeProjects/AsyncAndAwait/Program.cs) |
-| 25 |  | Асинхронная кулинарная книга<br>(Easy) | [Условие](Tasks/AsyncAndAwaitEasyTask.txt) \| [Решение](PracticeProjects/AsyncAndAwaitEasy/Program.cs) |
+|  |  | Асинхронная кулинарная книга<br>(Easy) | [Условие](Tasks/AsyncAndAwaitEasyTask.txt) \| [Решение](PracticeProjects/AsyncAndAwaitEasy/Program.cs) |
 
 
 ## 📁 Структура репозитория
