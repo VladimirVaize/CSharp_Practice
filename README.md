@@ -36,19 +36,60 @@
 | 14 | **Классы и объекты** | Система прокачки оружия | [Условие](Tasks/ClassesAndObjectsTask.txt) \| [Решение](PracticeProjects/ClassesAndObjects/Program.cs) |
 | 15 | **Поля и модификаторы <br>доступа** | Разработка модуля "Броня Героя" <br>для RPG-игры | [Условие](Tasks/AccessFieldsAndModifiersTask.txt) \| [Решение](PracticeProjects/AccessFieldsAndModifiers/Program.cs) |
 | 16 | **Интерфейсы** | Система взаимодействия <br>с объектами в игре <br>"Космическая база" | [Условие](Tasks/InterfacesTask.txt) \| [Решение](PracticeProjects/Interfaces/Program.cs) |
-| 17 | **Абстрактные классы** | Система магических артефактов | [Условие](Tasks/AbstractClassesTask.txt) \| [Решение](PracticeProjects/AbstractClasses/Program.cs) |
-| 18 | **Структуры** | "Звездный Курьер: <br>Оптимизация данных корабля" | [Условие](Tasks/StructuresTask.txt) \| [Решение](PracticeProjects/Structures/Program.cs) |
-| 19 | **Upcasting и <br>Downcasting** | Система инвентаря для RPG | [Условие](Tasks/UpcastingAndDowncastingTask.txt) \| [Решение](PracticeProjects/UpcastingAndDowncasting/Program.cs) |
-| 20 | **enum** | Система состояний врага <br>(Enemy AI State Machine) | [Условие](Tasks/EnumTask.txt) \| [Решение](PracticeProjects/Enum/Program.cs) |
-| 21 | **LINQ** | Система поиска и фильтрации <br>предметов в инвентаре <br>(Inventory System) | [Условие](Tasks/LINQTask.txt) \| [Решение](PracticeProjects/LINQ/Program.cs) |
-| 22 | **Обобщения <br>(Generics)** | Универсальная система <br>пула объектов <br>(Object Pool) для игры | [Условие](Tasks/GenericsTask.txt) \| [Решение](PracticeProjects/Generics/Program.cs) |
-| 23 | **Делегаты и события** | Система достижений <br>(Achievement System) | [Условие](Tasks/DelegatesAndEventsTask.txt) \| [Решение](PracticeProjects/DelegatesAndEvents/Program.cs) |
 <table>
     <tr>
         <td></td>
         <td><strong></strong></td>
         <td></td>
         <td> <a href="">Условие</a> | <a href="">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td><strong>Интерфейсы</strong></td>
+        <td>Система взаимодействия <br>с объектами в игре <br>"Космическая база"</td>
+        <td> <a href="Tasks/InterfacesTask.txt">Условие</a> | <a href="PracticeProjects/Interfaces/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td><strong>Абстрактные классы</strong></td>
+        <td>Система магических артефактов</td>
+        <td> <a href="Tasks/AbstractClassesTask.txt">Условие</a> | <a href="PracticeProjects/AbstractClasses/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td><strong>Структуры</strong></td>
+        <td>Звездный Курьер: <br>Оптимизация данных корабля</td>
+        <td> <a href="Tasks/StructuresTask.txt">Условие</a> | <a href="PracticeProjects/Structures/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td><strong>Upcasting и <br>Downcasting</strong></td>
+        <td>Система инвентаря для RPG</td>
+        <td> <a href="Tasks/UpcastingAndDowncastingTask.txt">Условие</a> | <a href="PracticeProjects/UpcastingAndDowncasting/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td><strong>enum</strong></td>
+        <td>Система состояний врага <br>(Enemy AI State Machine)</td>
+        <td> <a href="Tasks/EnumTask.txt">Условие</a> | <a href="PracticeProjects/Enum/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td><strong>LINQ</strong></td>
+        <td>Система поиска и фильтрации <br>предметов в инвентаре <br>(Inventory System)</td>
+        <td> <a href="Tasks/LINQTask.txt">Условие</a> | <a href="PracticeProjects/LINQ/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td><strong>Обобщения <br>(Generics)</strong></td>
+        <td>Универсальная система <br>пула объектов <br>(Object Pool) для игры</td>
+        <td> <a href="Tasks/GenericsTask.txt">Условие</a> | <a href="PracticeProjects/Generics/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td><strong>Делегаты и события</strong></td>
+        <td>Система достижений <br>(Achievement System)</td>
+        <td> <a href="Tasks/DelegatesAndEventsTask.txt">Условие</a> | <a href="PracticeProjects/DelegatesAndEvents/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>24</td>
@@ -65,7 +106,7 @@
     <tr>
         <td> 25 </td>
         <td><strong> Обработка ошибок <br>(Exceptions) </strong></td>
-        <td> Система крафта с защитой от ошибок игрока </td>
+        <td> Система крафта с защитой <br>от ошибок игрока </td>
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
     <tr>
