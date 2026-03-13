@@ -18,30 +18,102 @@
 
 ## 📋 Список проектов
 
-| № | Проект / Тема | Краткое описание задачи | Ссылки |
-|---|---------------|-------------------------|--------|
-| 1 | **Массив** | Система дропа лута с монстров. | [Условие](Tasks/ArrayTask.txt) \| [Решение](PracticeProjects/Arrays/Program.cs) |
-| 2 | **Двумерный массив** | Головоломка "Пятнашки" (TileSwap). | [Условие](Tasks/MultidimensionalArrayTask.txt) \| [Решение](PracticeProjects/MultidimensionalArrays/Program.cs) |
-| 3 | **Ссылочные типы** | Система инвентаря <br>и модификации предметов. | [Условие](Tasks/ReferenceTypesTask.txt) \| [Решение](PracticeProjects/ReferenceTypes/Program.cs) |
-| 4 | **Расширение массива** | Динамический инвентарь героя. | [Условие](Tasks/ArrayExpansionTask.txt) \| [Решение](PracticeProjects/ArrayExpansion/Program.cs) |
-| 5 | **Цикл Foreach** | Система инвентаря <br>и применения предметов. | [Условие](Tasks/TheForeachCycleTask.txt) \| [Решение](PracticeProjects/TheForeachCycle/Program.cs) |
-| 6 | **ref и out** | Система модификации <br>статистики персонажа. | [Условие](Tasks/RefAndOutTask.txt) \| [Решение](PracticeProjects/RefAndOut/Program.cs) |
-| 7 | **Перегрузка** | Система расчета урона для RPG | [Условие](Tasks/OverloadTask.txt) \| [Решение](PracticeProjects/Overload/Program.cs) |
-| 8 | **List** | Система управления врагами <br>(Wave Manager) | [Условие](Tasks/ListTask.txt) \| [Решение](PracticeProjects/List/Program.cs) |
-| 9 | **Queue - FIFO** | Система спавна мобов <br>(Mobile Spawn Queue) | [Условие](Tasks/QueueTask.txt) \| [Решение](PracticeProjects/Queue/Program.cs) |
-| 10 | **Stack - FILO** | Система отката действий <br>(Memory Scrolls History)| [Условие](Tasks/StackTask.txt) \| [Решение](PracticeProjects/Stack/Program.cs) |
-| 11 | **Dictionary** | Инвентарь и экономика для RPG | [Условие](Tasks/DictionaryTask.txt) \| [Решение](PracticeProjects/Dictionary/Program.cs) |
-| 12 | **Отношения в ООП** | Рефакторинг и реализация <br>"Боевого пса" | [Условие](Tasks/RelationshipsAndTypingOOPTask.txt) \| [Решение](PracticeProjects/RelationshipsAndTypingOOP/Program.cs) |
-| 13 | **Абстракция <br>(Полиморфизм)** | Прототип системы квестов | [Условие](Tasks/PolymorphismTask.txt) \| [Решение](PracticeProjects/Polymorphism/Program.cs) |
-| 14 | **Классы и объекты** | Система прокачки оружия | [Условие](Tasks/ClassesAndObjectsTask.txt) \| [Решение](PracticeProjects/ClassesAndObjects/Program.cs) |
-| 15 | **Поля и модификаторы <br>доступа** | Разработка модуля "Броня Героя" <br>для RPG-игры | [Условие](Tasks/AccessFieldsAndModifiersTask.txt) \| [Решение](PracticeProjects/AccessFieldsAndModifiers/Program.cs) |
-| 16 | **Интерфейсы** | Система взаимодействия <br>с объектами в игре <br>"Космическая база" | [Условие](Tasks/InterfacesTask.txt) \| [Решение](PracticeProjects/Interfaces/Program.cs) |
 <table>
     <tr>
-        <td></td>
-        <td><strong></strong></td>
-        <td></td>
-        <td> <a href="">Условие</a> | <a href="">Решение</a> </td>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td><strong>Массив</strong></td>
+        <td>Система дропа лута с монстров.</td>
+        <td> <a href="Tasks/ArrayTask.txt">Условие</a> | <a href="PracticeProjects/Arrays/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><strong>Двумерный массив</strong></td>
+        <td>Головоломка "Пятнашки" (TileSwap).</td>
+        <td> <a href="Tasks/MultidimensionalArrayTask.txt">Условие</a> | <a href="PracticeProjects/MultidimensionalArrays/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><strong>Ссылочные типы</strong></td>
+        <td>Система инвентаря <br>и модификации предметов.</td>
+        <td> <a href="Tasks/ReferenceTypesTask.txt">Условие</a> | <a href="PracticeProjects/ReferenceTypes/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><strong>Расширение массива</strong></td>
+        <td>Динамический инвентарь героя.</td>
+        <td> <a href="Tasks/ArrayExpansionTask.txt">Условие</a> | <a href="PracticeProjects/ArrayExpansion/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td><strong>Цикл Foreach</strong></td>
+        <td>Система инвентаря <br>и применения предметов.</td>
+        <td> <a href="Tasks/TheForeachCycleTask.txt">Условие</a> | <a href="PracticeProjects/TheForeachCycle/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td><strong>ref и out</strong></td>
+        <td>Система модификации <br>статистики персонажа.</td>
+        <td> <a href="Tasks/RefAndOutTask.txt">Условие</a> | <a href="PracticeProjects/RefAndOut/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td><strong>Перегрузка</strong></td>
+        <td>Система расчета урона для RPG</td>
+        <td> <a href="Tasks/OverloadTask.txt">Условие</a> | <a href="PracticeProjects/Overload/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td><strong>List</strong></td>
+        <td>Система управления врагами <br>(Wave Manager)</td>
+        <td> <a href="Tasks/ListTask.txt">Условие</a> | <a href="PracticeProjects/List/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td><strong>Queue - FIFO</strong></td>
+        <td>Система спавна мобов <br>(Mobile Spawn Queue)</td>
+        <td> <a href="Tasks/QueueTask.txt">Условие</a> | <a href="PracticeProjects/Queue/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td><strong>Stack - FILO</strong></td>
+        <td>Система отката действий <br>(Memory Scrolls History)</td>
+        <td> <a href="Tasks/StackTask.txt">Условие</a> | <a href="PracticeProjects/Stack/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td><strong>Dictionary</strong></td>
+        <td>Инвентарь и экономика для RPG</td>
+        <td> <a href="Tasks/DictionaryTask.txt">Условие</a> | <a href="PracticeProjects/Dictionary/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td><strong>Отношения в ООП</strong></td>
+        <td>Рефакторинг и реализация <br>"Боевого пса"</td>
+        <td> <a href="Tasks/RelationshipsAndTypingOOPTask.txt">Условие</a> | <a href="PracticeProjects/RelationshipsAndTypingOOP/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td><strong>Абстракция <br>(Полиморфизм)</strong></td>
+        <td>Прототип системы квестов</td>
+        <td> <a href="Tasks/PolymorphismTask.txt">Условие</a> | <a href="PracticeProjects/Polymorphism/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td><strong>Классы и объекты</strong></td>
+        <td>Система прокачки оружия</td>
+        <td> <a href="Tasks/ClassesAndObjectsTask.txt">Условие</a> | <a href="PracticeProjects/ClassesAndObjects/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td><strong>Поля и модификаторы <br>доступа</strong></td>
+        <td>Разработка модуля "Броня Героя" <br>для RPG-игры</td>
+        <td> <a href="Tasks/AccessFieldsAndModifiersTask.txt">Условие</a> | <a href="PracticeProjects/AccessFieldsAndModifiers/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>16</td>
