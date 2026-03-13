@@ -53,7 +53,7 @@
     <tr>
         <td>24</td>
         <td><strong>Async/await</strong></td>
-        <td>Асинхронный загрузчик уровней с эмуляцией долгих операций <br>(Async Level Loader)</td>
+        <td>Асинхронный загрузчик уровней <br>с эмуляцией долгих операций <br>(Async Level Loader)</td>
         <td> <a href="Tasks/AsyncAndAwaitTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwait/Program.cs">Решение</a> </td>
     </tr>
     <tr>
