@@ -53,18 +53,18 @@
     <tr>
         <td>24</td>
         <td><strong>Async/await</strong></td>
-        <td>Асинхронный загрузчик уровней с эмуляцией долгих операций (Async Level Loader)</td>
+        <td>Асинхронный загрузчик уровней с эмуляцией долгих операций <br>(Async Level Loader)</td>
         <td> <a href="Tasks/AsyncAndAwaitTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwait/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
         <td><strong></strong></td>
-        <td> Асинхронная кулинарная книга (Easy) </td>
+        <td> Асинхронная кулинарная книга <br>(Easy) </td>
         <td> <a href="Tasks/AsyncAndAwaitEasyTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwaitEasy/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td> 25 </td>
-        <td><strong> Обработка ошибок (Exceptions) </strong></td>
+        <td><strong> Обработка ошибок <br>(Exceptions) </strong></td>
         <td> Система крафта с защитой от ошибок игрока </td>
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
