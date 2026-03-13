@@ -45,7 +45,17 @@
 | 23 | **Делегаты и события** | Система достижений <br>(Achievement System) | [Условие](Tasks/DelegatesAndEventsTask.txt) \| [Решение](PracticeProjects/DelegatesAndEvents/Program.cs) |
 | 24 | **Async/await** | Асинхронный загрузчик уровней <br>с эмуляцией долгих операций <br>(Async Level Loader) | [Условие](Tasks/AsyncAndAwaitTask.txt) \| [Решение](PracticeProjects/AsyncAndAwait/Program.cs) |
 |  |  | Асинхронная кулинарная книга<br>(Easy) | [Условие](Tasks/AsyncAndAwaitEasyTask.txt) \| [Решение](PracticeProjects/AsyncAndAwaitEasy/Program.cs) |
-| 25 | **Обработка ошибок<br>(Exceptions)** | Система крафта с защитой <br>от ошибок игрока | [Условие](Tasks/ExceptionsTask.txt) \| [Решение](PracticeProjects/Exceptions/Program.cs) |
+<table>
+    <tr>
+        <td> 25 </td>
+        <td><strong> Обработка ошибок (Exceptions) </strong></td>
+        <td> Система крафта с защитой от ошибок игрока </td>
+        <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
+    </tr>
+</table>
 
 
 ## 📁 Структура репозитория
