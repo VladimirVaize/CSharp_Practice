@@ -185,13 +185,19 @@
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
     <tr>
-        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
+        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ (WIP)</strong></td>
     </tr>
     <tr>
-        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational)</strong></td>
+        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational) (WIP)</strong></td>
     </tr>
     <tr>
-        <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev</strong></td>
+        <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></td>
+    </tr>
+    <tr>
+        <td colspan="4", align="center"><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></td>
+    </tr>
+    <tr>
+        <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
     </tr>
 </table>
 
