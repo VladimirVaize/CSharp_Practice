@@ -43,9 +43,25 @@
 | 21 | **LINQ** | Система поиска и фильтрации <br>предметов в инвентаре <br>(Inventory System) | [Условие](Tasks/LINQTask.txt) \| [Решение](PracticeProjects/LINQ/Program.cs) |
 | 22 | **Обобщения <br>(Generics)** | Универсальная система <br>пула объектов <br>(Object Pool) для игры | [Условие](Tasks/GenericsTask.txt) \| [Решение](PracticeProjects/Generics/Program.cs) |
 | 23 | **Делегаты и события** | Система достижений <br>(Achievement System) | [Условие](Tasks/DelegatesAndEventsTask.txt) \| [Решение](PracticeProjects/DelegatesAndEvents/Program.cs) |
-| 24 | **Async/await** | Асинхронный загрузчик уровней <br>с эмуляцией долгих операций <br>(Async Level Loader) | [Условие](Tasks/AsyncAndAwaitTask.txt) \| [Решение](PracticeProjects/AsyncAndAwait/Program.cs) |
-|  |  | Асинхронная кулинарная книга<br>(Easy) | [Условие](Tasks/AsyncAndAwaitEasyTask.txt) \| [Решение](PracticeProjects/AsyncAndAwaitEasy/Program.cs) |
 <table>
+    <tr>
+        <td></td>
+        <td><strong></strong></td>
+        <td></td>
+        <td> <a href="">Условие</a> | <a href="">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td><strong>Async/await</strong></td>
+        <td>Асинхронный загрузчик уровней с эмуляцией долгих операций (Async Level Loader)</td>
+        <td> <a href="Tasks/AsyncAndAwaitTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwait/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><strong></strong></td>
+        <td> Асинхронная кулинарная книга (Easy) </td>
+        <td> <a href="Tasks/AsyncAndAwaitEasyTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwaitEasy/Program.cs">Решение</a> </td>
+    </tr>
     <tr>
         <td> 25 </td>
         <td><strong> Обработка ошибок (Exceptions) </strong></td>
