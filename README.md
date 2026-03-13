@@ -26,6 +26,9 @@
         <td> Ссылки </td>
     </tr>
     <tr>
+        <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
+    </tr>
+    <tr>
         <td>1</td>
         <td><strong>Массив</strong></td>
         <td>Система дропа лута с монстров.</td>
