@@ -187,6 +187,12 @@
     <tr>
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
     </tr>
+    <tr>
+        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational)</strong></td>
+    </tr>
+    <tr>
+        <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev</strong></td>
+    </tr>
 </table>
 
 
