@@ -1,7 +1,0 @@
-D:\VisualStudioProjects\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
-D:\VisualStudioProjects\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
-D:\VisualStudioProjects\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
-D:\VisualStudioProjects\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.AssemblyReference.cache
-D:\VisualStudioProjects\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
-D:\VisualStudioProjects\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
-D:\VisualStudioProjects\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

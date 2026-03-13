@@ -1,7 +1,0 @@
-D:\VisualStudioProjects\Interfaces\bin\Debug\Interfaces.exe.config
-D:\VisualStudioProjects\Interfaces\bin\Debug\Interfaces.exe
-D:\VisualStudioProjects\Interfaces\bin\Debug\Interfaces.pdb
-D:\VisualStudioProjects\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
-D:\VisualStudioProjects\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
-D:\VisualStudioProjects\Interfaces\obj\Debug\Interfaces.exe
-D:\VisualStudioProjects\Interfaces\obj\Debug\Interfaces.pdb

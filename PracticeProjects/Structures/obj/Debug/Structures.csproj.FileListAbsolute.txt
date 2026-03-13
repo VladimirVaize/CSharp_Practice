@@ -1,7 +1,0 @@
-D:\VisualStudioProjects\Structures\bin\Debug\Structures.exe.config
-D:\VisualStudioProjects\Structures\bin\Debug\Structures.exe
-D:\VisualStudioProjects\Structures\bin\Debug\Structures.pdb
-D:\VisualStudioProjects\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
-D:\VisualStudioProjects\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
-D:\VisualStudioProjects\Structures\obj\Debug\Structures.exe
-D:\VisualStudioProjects\Structures\obj\Debug\Structures.pdb

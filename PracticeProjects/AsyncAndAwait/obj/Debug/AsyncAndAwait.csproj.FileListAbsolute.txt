@@ -1,7 +1,0 @@
-D:\VisualStudioProjects\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
-D:\VisualStudioProjects\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
-D:\VisualStudioProjects\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
-D:\VisualStudioProjects\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.AssemblyReference.cache
-D:\VisualStudioProjects\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
-D:\VisualStudioProjects\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
-D:\VisualStudioProjects\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb

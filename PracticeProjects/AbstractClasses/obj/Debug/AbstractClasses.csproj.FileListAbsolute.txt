@@ -1,7 +1,0 @@
-D:\VisualStudioProjects\AbstractClasses\bin\Debug\AbstractClasses.exe.config
-D:\VisualStudioProjects\AbstractClasses\bin\Debug\AbstractClasses.exe
-D:\VisualStudioProjects\AbstractClasses\bin\Debug\AbstractClasses.pdb
-D:\VisualStudioProjects\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
-D:\VisualStudioProjects\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
-D:\VisualStudioProjects\AbstractClasses\obj\Debug\AbstractClasses.exe
-D:\VisualStudioProjects\AbstractClasses\obj\Debug\AbstractClasses.pdb
