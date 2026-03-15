@@ -18,7 +18,7 @@
 
 ## 📋 Список проектов
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
     </tr>
@@ -188,7 +188,7 @@
 
 ###
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
     </tr>
@@ -213,7 +213,7 @@
 
 ###
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></td>
     </tr>
@@ -227,7 +227,7 @@
 
 ###
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></td>
     </tr>
@@ -241,7 +241,7 @@
 
 ###
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></td>
     </tr>
@@ -255,7 +255,7 @@
 
 ###
 
-<table width: 100%>
+<table>
     <tr>
         <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
     </tr>
