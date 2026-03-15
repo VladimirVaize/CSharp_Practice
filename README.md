@@ -202,7 +202,7 @@
     <tr>
         <td></td>
         <td colspan="2" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
-        <td align="center"> <a href="#">Решение (WIP)</a> </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Binary/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational) (WIP)</strong></td>
