@@ -200,7 +200,8 @@
         <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="#">Решение (WIP)</a> </td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
+        <td></td>
+        <td colspan="2" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
         <td align="center"> <a href="#">Решение (WIP)</a> </td>
     </tr>
     <tr>
