@@ -188,6 +188,16 @@
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ (WIP)</strong></td>
     </tr>
     <tr>
+        <td> 26 </td>
+        <td><strong> Сериализация <br>(JSON, XML, бинарная) </strong></td>
+        <td> Система сохранения и загрузки <br>прогресса в RPG игре <br>(Save/Load System) </td>
+        <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="#">Решение (WIP)</a> </td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center">Бинарная (Binary)</td>
+        <td align="center"> <a href="#">Решение (WIP)</a> </td>
+    </tr>
+    <tr>
         <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational) (WIP)</strong></td>
     </tr>
     <tr>
