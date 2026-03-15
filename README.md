@@ -209,17 +209,61 @@
         <td colspan="2" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
         <td align="center"> <a href="PracticeProjects/Serialization/Binary/Program.cs">Решение</a> </td>
     </tr>
+</table>
+
+###
+
+<table>
     <tr>
         <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational) (WIP)</strong></td>
     </tr>
     <tr>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
+    </tr>
+</table>
+
+###
+
+<table>
+    <tr>
         <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></td>
     </tr>
+    <tr>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
+    </tr>
+</table>
+
+###
+
+<table>
     <tr>
         <td colspan="4", align="center"><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></td>
     </tr>
     <tr>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
+    </tr>
+</table>
+
+###
+
+<table>
+    <tr>
         <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
     </tr>
 </table>
 
