@@ -233,6 +233,15 @@
         </td>
         <td align="center"> <a href="PracticeProjects/Serialization/XML/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td></td>
+        <td colspan="2" align="center">
+            <strong>
+                Json
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
