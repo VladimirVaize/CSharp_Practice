@@ -20,13 +20,13 @@
 
 <table>
     <tr>
+        <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
+    </tr>
+    <tr>
         <td>№</td>
         <td>Проект / Тема</td>
         <td>Краткое описание задачи</td>
         <td> Ссылки </td>
-    </tr>
-    <tr>
-        <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
     </tr>
     <tr>
         <td>1</td>
@@ -186,6 +186,12 @@
     </tr>
     <tr>
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
+    </tr>
+    <tr>
+        <td>№</td>
+        <td>Проект / Тема</td>
+        <td>Краткое описание задачи</td>
+        <td> Ссылки </td>
     </tr>
     <tr>
         <td> 26 </td>
