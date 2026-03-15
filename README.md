@@ -209,6 +209,21 @@
         <td colspan="2" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
         <td align="center"> <a href="PracticeProjects/Serialization/Binary/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td></td>
+        <td colspan="2" align="center"><strong>
+            SOAP<br>Тяжеловесный, медленный и избыточный XML-формат, 
+            <br>который сложен в разработке и отладке по сравнению с 
+            <br>легковесными бинарными или JSON-сериализаторами.
+            <br>Существенные минусы: 
+            <br>Низкая производительность и 
+            <br>большой объем передаваемых данных, 
+            <br>сложность парсинга, отсутствие гибкости и 
+            <br>привязка к строгой схеме контракта, 
+            <br>что затрудняет эволюцию API.
+        </strong></td>
+        <td align="center"><strong>Решения нет</strong></td>
+    </tr>
 </table>
 
 ###
