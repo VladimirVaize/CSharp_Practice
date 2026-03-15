@@ -185,7 +185,7 @@
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
     <tr>
-        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ (WIP)</strong></td>
+        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
     </tr>
     <tr>
         <td> 26 </td>
@@ -194,7 +194,7 @@
         <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="#">Решение (WIP)</a> </td>
     </tr>
     <tr>
-        <td colspan="3" align="center">Бинарная (Binary)</td>
+        <td colspan="3" align="center"><strong>Бинарная (Binary)</strong></td>
         <td align="center"> <a href="#">Решение (WIP)</a> </td>
     </tr>
     <tr>
