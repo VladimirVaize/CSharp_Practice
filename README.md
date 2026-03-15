@@ -260,10 +260,10 @@
         <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
     </tr>
     <tr>
-        <td>№</td>
-        <td>Проект / Тема</td>
-        <td>Краткое описание задачи</td>
-        <td> Ссылки </td>
+        <td><em>№</em></td>
+        <td><em>Проект / Тема</em></td>
+        <td><em>Краткое описание задачи</em></td>
+        <td><em>Ссылки</em></td>
     </tr>
 </table>
 
