@@ -184,6 +184,11 @@
         <td> Система крафта с защитой <br>от ошибок игрока </td>
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
+</table>
+
+###
+
+<table>
     <tr>
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
     </tr>
