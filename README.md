@@ -215,7 +215,7 @@
 
 <table>
     <tr>
-        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТКРНЫ (Creational) (WIP)</strong></td>
+        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></td>
     </tr>
     <tr>
         <td>№</td>
