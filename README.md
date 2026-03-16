@@ -202,7 +202,7 @@
         <td> 26 </td>
         <td><strong> Сериализация <br>(JSON, XML, бинарная) </strong></td>
         <td> Система сохранения и загрузки <br>прогресса в RPG игре <br>(Save/Load System) </td>
-        <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="#">Решение (WIP)</a> </td>
+        <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="PracticeProjects/Serialization/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
