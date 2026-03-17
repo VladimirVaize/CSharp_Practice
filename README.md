@@ -14,10 +14,10 @@
 - **Основные разделы:**
   - [ОСНОВА](#основа)
   - [РАБОТА С ДАННЫМИ](#работа-с-данными)
-  - [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (WIP)](#порождающие-паттерны-creational-wip)
-  - [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (WIP)](#поведенческие-паттерны-behavioral--gamedev-wip)
-  - [СТРУКТУРНЫЕ ПАТТЕРНЫ (WIP)](#структурные-паттерны-structural-wip)
-  - [ПРОДВИНУТЫЕ ТЕМЫ (WIP)](#продвинутые-темы-wip)
+  - [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (WIP)](#порождающие-паттерны-creational)
+  - [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (WIP)](#поведенческие-паттерны-behavioral--gamedev)
+  - [СТРУКТУРНЫЕ ПАТТЕРНЫ (WIP)](#структурные-паттерны-structural)
+  - [ПРОДВИНУТЫЕ ТЕМЫ (WIP)](#продвинутые-темы)
 - [Структура репозитория](#-структура-репозитория)
 - [Технологии](#-технологии)
 
@@ -196,7 +196,7 @@
 ###
 
 <table>
-    <tr>
+    <tr id="работа-с-данными">
         <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
     </tr>
     <tr>
@@ -312,7 +312,7 @@
 ###
 
 <table>
-    <tr>
+    <tr id="порождающие-паттерны-creational">
         <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></td>
     </tr>
     <tr>
@@ -326,7 +326,7 @@
 ###
 
 <table>
-    <tr>
+    <tr id="поведенческие-паттерны-behavioral--gamedev">
         <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></td>
     </tr>
     <tr>
@@ -340,7 +340,7 @@
 ###
 
 <table>
-    <tr>
+    <tr id="структурные-паттерны-structural">
         <td colspan="4", align="center"><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@
 ###
 
 <table>
-    <tr>
+    <tr id="продвинутые-темы">
         <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
     </tr>
     <tr>
