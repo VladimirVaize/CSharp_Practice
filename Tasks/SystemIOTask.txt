@@ -1,0 +1,125 @@
+Задача: "Система сохранения и загрузки настроек игры (Game Settings)"
+
+Контекст:
+
+Ты разрабатываешь консольную RPG. Игрок может настраивать игру под себя. 
+Геймдизайнер поставил задачу: все настройки должны сохраняться между запусками игры. 
+При повторном запуске игра должна загружать последние сохраненные настройки.
+
+Техническое задание:
+
+1. Создай класс GameSettings
+   - Свойства:
+     - string PlayerName (имя игрока)
+     - int Volume (громкость от 0 до 100)
+     - bool IsFullscreen (полноэкранный режим)
+     - ConsoleColor BackgroundColor (цвет фона консоли)
+     - DifficultyLevel Difficulty (сложность: Easy, Normal, Hard, Nightmare)
+     - List<string> FavoriteHeroes (любимые герои)
+
+2. Создай перечисление DifficultyLevel
+   - Easy, Normal, Hard, Nightmare
+
+3. Реализуй класс SettingsManager
+   - Статический класс (чтобы был доступен из любой точки игры)
+   - Поля:
+     - private static string _settingsDirectory - путь к папке с настройками
+     - private static string _settingsFilePath - полный путь к файлу настроек
+     - public static GameSettings CurrentSettings - текущие настройки
+   - Методы:
+     - static SettingsManager() - статический конструктор
+       - Инициализирует пути:
+         - Папка: "C:\\MyGame\\Settings" (или Environment.CurrentDirectory + "\Settings")
+         - Файл: "settings.json" (используем JSON, так как он удобен для чтения)
+     - public static void Initialize()
+       - Проверяет, существует ли папка для настроек. Если нет — создает.
+       - Пытается загрузить настройки из файла.
+       - Если файла нет или он поврежден — создает настройки по умолчанию.
+       - Применяет загруженные настройки к консоли (цвет фона).
+     - public static void SaveSettings()
+       - Сохраняет текущие настройки (CurrentSettings) в JSON-файл.
+       - Использует сериализацию в JSON (ты уже проходил).
+     - public static void LoadSettings()
+       - Читает JSON-файл и десериализует его обратно в объект GameSettings.
+       - Если файл не найден — возвращает null (и тогда Initialize создаст настройки по умолчанию).
+
+5. Реализуй пользовательский интерфейс для изменения настроек
+   Создай класс SettingsMenu с методами:
+   - public static void ShowSettingsMenu()
+     - Отображает текущие настройки
+     - Позволяет игроку их изменять
+     - После изменения спрашивает: "Сохранить изменения? (Y/N)"
+     - При согласии вызывает SettingsManager.SaveSettings()
+- Пример интерфейса:
+
+===== НАСТРОЙКИ ИГРЫ =====
+1. Имя игрока: Артас
+2. Громкость: 75
+3. Полноэкранный режим: Да
+4. Цвет фона: Черный
+5. Сложность: Hard
+6. Любимые герои: Паладин, Маг, Лучник
+0. Выход в главное меню
+
+Выберите пункт для изменения:
+
+Требования к реализации:
+1. Использование System.IO:
+   - Directory.Exists / Directory.CreateDirectory
+   - File.Exists
+   - File.ReadAllText / File.WriteAllText
+
+2. Сериализация JSON:
+   - Используй System.Text.Json (он встроен в .NET)
+   - Подключи using System.Text.Json;
+
+3. Обработка ошибок:
+   - Оберни все операции с файлами в try-catch
+   - Если при загрузке что-то пошло не так — создавай настройки по умолчанию
+   - Выводи понятные сообщения об ошибках в консоль
+
+4. Настройки по умолчанию:
+new GameSettings
+{
+    PlayerName = "Player",
+    Volume = 50,
+    IsFullscreen = false,
+    BackgroundColor = ConsoleColor.Black,
+    Difficulty = DifficultyLevel.Normal,
+    FavoriteHeroes = new List<string> { "Warrior", "Mage" }
+};
+
+5. Применение настроек:
+   - При загрузке настроек применяй BackgroundColor:
+     Console.BackgroundColor = CurrentSettings.BackgroundColor;
+     Console.Clear();
+
+
+Бонус-задания:
+Бонус 1. Резервное копирование
+   - При сохранении настроек создавай копию старого файла с именем settings.backup.json
+   - Если основной файл поврежден, пробуй загрузиться из бэкапа
+
+Бонус 2. Несколько профилей
+   - Добавь возможность создавать несколько профилей настроек
+   - Структура папок: Settings\Profile1\settings.json, Settings\Profile2\settings.json
+   - Добавь в меню пункт "Выбрать профиль"
+
+Бонус 3. Валидация значений
+   - При изменении настроек проверяй:
+     - Volume не меньше 0 и не больше 100
+     - PlayerName не пустой и не длиннее 20 символов
+     - Если пользователь ввел некорректное значение — сообщи и попроси ввести снова
+
+
+Структура проекта (как это должно выглядеть):
+
+MyGame/
+├── Program.cs              (точка входа, вызов SettingsManager.Initialize)
+├── Models/
+│   ├── GameSettings.cs     (класс с настройками)
+│   └── DifficultyLevel.cs  (enum)
+├── Managers/
+│   └── SettingsManager.cs  (статический класс для работы с файлами)
+└── UI/
+    └── SettingsMenu.cs     (меню для изменения настроек)
