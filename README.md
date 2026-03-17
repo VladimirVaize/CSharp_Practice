@@ -228,6 +228,12 @@
         </td>
         <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td> 27 </td>
+        <td><strong> Работа с файловой системой <br>(System.IO) </strong></td>
+        <td> Система сохранения и <br>загрузки настроек игры <br>(Game Settings) </td>
+        <td align="center"> <a href="Tasks/SystemIOTask.txt">Условие</a></td>
+    </tr>
 </table>
 
 ###
