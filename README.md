@@ -206,12 +206,16 @@
     </tr>
     <tr>
         <td></td>
-        <td colspan="2" align="center"><strong>Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим</strong></td>
+        <td colspan="2">
+            <strong>
+                Бинарная (Binary)<br>В .NET 5+ считается небезопасным и устаревшим
+            </strong>
+        </td>
         <td align="center"> <a href="PracticeProjects/Serialization/Binary/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
-        <td colspan="2" align="center">
+        <td colspan="2">
             <strong>
                 XML - Медленна, избыточна, неэффективна по памяти, 
                 <br>легко читается игроками, что ведёт к читерству.
@@ -221,7 +225,7 @@
     </tr>
     <tr>
         <td></td>
-        <td colspan="2" align="center">
+        <td colspan="2">
             <strong>
                 Json
             </strong>
@@ -233,6 +237,68 @@
         <td><strong> Работа с файловой системой <br>(System.IO) </strong></td>
         <td> Система сохранения и <br>загрузки настроек игры <br>(Game Settings) </td>
         <td align="center"> <a href="Tasks/SystemIOTask.txt">Условие</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <strong>
+                Program.cs
+                <br>точка входа в программу. 
+                <br>Инициализирует менеджер настроек, 
+                <br>показывает выбор профиля и открывает меню настроек.
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/SystemIO/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <strong>
+                SettingsManager.cs
+                <br>статический класс
+                <br>для управления профилями и настройками. 
+                <br>Создает папки, сохраняет/загружает JSON-файлы, 
+                <br>создает бэкапы, переключает профили 
+                <br>и применяет настройки к консоли.
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <strong>
+                DifficultyLevel.cs
+                <br>перечисление (enum) с уровнями сложности: 
+                <br>Easy, Normal, Hard, Nightmare.
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <strong>
+                GameSettings.cs
+                <br>модель данных, хранящая настройки игрока: 
+                <br>имя, громкость, цвет фона, 
+                <br>сложность, список любимых героев.
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <strong>
+                SettingsMenu.cs
+                <br>пользовательский интерфейс для изменения настроек. 
+                <br>Позволяет редактировать все параметры, 
+                <br>вызывает сохранение и загрузку через 
+                <br>SettingsManager.
+            </strong>
+        </td>
+        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
     </tr>
 </table>
 
