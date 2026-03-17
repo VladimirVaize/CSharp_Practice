@@ -248,7 +248,7 @@
                 <br>показывает выбор профиля и открывает меню настроек.
             </strong>
         </td>
-        <td align="center"> <a href="PracticeProjects/Serialization/SystemIO/Program.cs">Решение</a> </td>
+        <td align="center"> <a href="PracticeProjects/SystemIO/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
@@ -262,7 +262,7 @@
                 <br>и применяет настройки к консоли.
             </strong>
         </td>
-        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+        <td align="center"> <a href="PracticeProjects/SystemIO/Managers/SettingsManager.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
@@ -273,7 +273,7 @@
                 <br>Easy, Normal, Hard, Nightmare.
             </strong>
         </td>
-        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+        <td align="center"> <a href="PracticeProjects/SystemIO/Models/DifficultyLevel.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
@@ -285,7 +285,7 @@
                 <br>сложность, список любимых героев.
             </strong>
         </td>
-        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+        <td align="center"> <a href="PracticeProjects/SystemIO/Models/GameSettings.cs">Решение</a> </td>
     </tr>
     <tr>
         <td></td>
@@ -298,7 +298,7 @@
                 <br>SettingsManager.
             </strong>
         </td>
-        <td align="center"> <a href="PracticeProjects/Serialization/Json/Program.cs">Решение</a> </td>
+        <td align="center"> <a href="PracticeProjects/SystemIO/UI/SettingsMenu.cs">Решение</a> </td>
     </tr>
 </table>
 
