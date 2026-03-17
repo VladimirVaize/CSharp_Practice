@@ -26,8 +26,8 @@
 ## 📋 Список проектов
 
 <table>
-    <tr>
-        <td colspan="4", align="center"><strong>### ОСНОВА</strong></td>
+    <tr id="основа">
+        <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
     </tr>
     <tr>
         <td><em>№</em></td>
