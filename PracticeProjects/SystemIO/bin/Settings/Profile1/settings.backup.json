@@ -1,0 +1,11 @@
+{
+  "playerName": "NotDefProfileTest",
+  "volume": 100,
+  "isFullscreen": true,
+  "backgroundColor": 3,
+  "difficulty": 1,
+  "favoriteHeroes": [
+    "Warrior",
+    "Mage"
+  ]
+}

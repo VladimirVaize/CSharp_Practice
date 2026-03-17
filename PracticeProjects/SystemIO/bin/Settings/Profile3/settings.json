@@ -1,0 +1,10 @@
+{
+  "playerName": "TestProfile123",
+  "volume": 77,
+  "isFullscreen": true,
+  "backgroundColor": 4,
+  "difficulty": 3,
+  "favoriteHeroes": [
+    "Coffee Drinker 1337"
+  ]
+}

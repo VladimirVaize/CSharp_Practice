@@ -1,0 +1,11 @@
+{
+  "playerName": "Player",
+  "volume": 50,
+  "isFullscreen": false,
+  "backgroundColor": 0,
+  "difficulty": 1,
+  "favoriteHeroes": [
+    "Warrior",
+    "Mage"
+  ]
+}
