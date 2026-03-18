@@ -307,6 +307,12 @@
         </td>
         <td align="center"> <a href="PracticeProjects/SystemIO/UI/SettingsMenu.cs">Решение</a> </td>
     </tr>
+  <tr>
+        <td> 28 </td>
+        <td><strong> Управление ресурсами <br>(IDisposable, using, <br>финализаторы) </strong></td>
+        <td> Система сохранения и <br>логирования игровых сессий <br>(Session Saver & Logger) </td>
+        <td> <a href="Tasks/ResourceManagementTask.txt">Условие</a> | <a href="PracticeProjects/ResourceManagement/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
