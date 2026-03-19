@@ -327,6 +327,12 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
+    <tr>
+        <td>29</td>
+        <td><strong>Сортировка пузырьком <br>(Bubble Sort)</strong></td>
+        <td>Система лидерборда <br>(таблица рекордов) <br>для инди-игры</td>
+        <td> <a href="Tasks/BubbleSortTask.txt">Условие</a> | <a href="PracticeProjects/BubbleSort/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
