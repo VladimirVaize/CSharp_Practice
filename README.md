@@ -319,7 +319,7 @@
 
 <table>
     <tr id="алгоритмы-сортировки">
-        <td colspan="4", align="center"><strong>АЛГОРИТМЫ СОРТИРОВКИ (WIP)</strong></td>
+        <td colspan="4", align="center"><strong>АЛГОРИТМЫ СОРТИРОВКИ</strong></td>
     </tr>
     <tr>
         <td><em>№</em></td>
