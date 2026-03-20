@@ -333,6 +333,12 @@
         <td>Система лидерборда <br>(таблица рекордов) <br>для инди-игры</td>
         <td> <a href="Tasks/BubbleSortTask.txt">Условие</a> | <a href="PracticeProjects/BubbleSort/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td>30</td>
+        <td><strong>Шейкерная сортировка <br>(Cocktail Sort)</strong></td>
+        <td>Система слоев объектов в 2D игре</td>
+        <td> <a href="Tasks/CocktailSortTask.txt">Условие</a> | <a href="PracticeProjects/CocktailSort/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
