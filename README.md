@@ -339,6 +339,12 @@
         <td>Система слоев объектов в 2D игре</td>
         <td> <a href="Tasks/CocktailSortTask.txt">Условие</a> | <a href="PracticeProjects/CocktailSort/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td>31</td>
+        <td><strong>Сортировка вставками <br>(Insertion sort)</strong></td>
+        <td>Система рейтинга игроков <br>(Leaderboard)</td>
+        <td> <a href="Tasks/InsertionSortTask.txt">Условие</a> | <a href="PracticeProjects/InsertionSort/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
