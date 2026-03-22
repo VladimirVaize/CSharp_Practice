@@ -351,6 +351,12 @@
         <td>Система приоритетов обработки <br>событий в игровом движке</td>
         <td> <a href="Tasks/ShellSortTask.txt">Условие</a> | <a href="PracticeProjects/ShellSort/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td>33</td>
+        <td><strong>Сортировка деревом <br>(Tree sort)</strong></td>
+        <td>Система квестов с приоритетами</td>
+        <td> <a href="Tasks/TreeSortTask.txt">Условие</a> | <a href="PracticeProjects/TreeSort/Program.cs">Решение</a> </td>
+    </tr>
 </table>
 
 ###
