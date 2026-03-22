@@ -341,9 +341,15 @@
     </tr>
     <tr>
         <td>31</td>
-        <td><strong>Сортировка вставками <br>(Insertion sort)</strong></td>
+        <td><strong>Сортировка вставками <br>(Insertion Sort)</strong></td>
         <td>Система рейтинга игроков <br>(Leaderboard)</td>
         <td> <a href="Tasks/InsertionSortTask.txt">Условие</a> | <a href="PracticeProjects/InsertionSort/Program.cs">Решение</a> </td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td><strong>Сортировка Шелла <br>(Shell Sort)</strong></td>
+        <td>Система приоритетов обработки <br>событий в игровом движке</td>
+        <td> <a href="Tasks/ShellSortTask.txt">Условие</a> | <a href="PracticeProjects/ShellSort/Program.cs">Решение</a> </td>
     </tr>
 </table>
 
