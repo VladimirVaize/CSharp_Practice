@@ -353,13 +353,13 @@
     </tr>
     <tr>
         <td>33</td>
-        <td><strong>Сортировка деревом <br>(Tree sort)</strong></td>
+        <td><strong>Сортировка деревом <br>(Tree Sort)</strong></td>
         <td>Система квестов с приоритетами</td>
         <td> <a href="Tasks/TreeSortTask.txt">Условие</a> | <a href="PracticeProjects/TreeSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>34</td>
-        <td><strong>Пирамидальная сортировка <br>(Heapsort)</strong></td>
+        <td><strong>Пирамидальная сортировка (Кучей)<br>(Heap Sort)</strong></td>
         <td></td>
         <td align="center">^^^^^ | <a href="PracticeProjects/HeapSort/Program.cs">Решение</a></td>
     </tr>
