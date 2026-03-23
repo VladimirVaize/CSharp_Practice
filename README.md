@@ -369,6 +369,12 @@
         <td>Система сортировки заказов <br>в таверне</td>
         <td> <a href="Tasks/SelectionSortTask.txt">Условие</a> | <a href="PracticeProjects/SelectionSort/Program.cs">Решение</a> </td>
     </tr>
+    <tr>
+        <td>36</td>
+        <td><strong>Гномья сортировка <br>(Gnome Sort)</strong></td>
+        <td>Система порядка хода <br>в пошаговой RPG</td>
+        <td><a href="Tasks/GnomeSortTask.txt">Условие</a> | <a href="PracticeProjects/GnomeSort/Program.cs">Решение</a></td>
+    </tr>
 </table>
 
 ###
