@@ -375,6 +375,12 @@
         <td>Система порядка хода <br>в пошаговой RPG</td>
         <td><a href="Tasks/GnomeSortTask.txt">Условие</a> | <a href="PracticeProjects/GnomeSort/Program.cs">Решение</a></td>
     </tr>
+    <tr>
+        <td>37</td>
+        <td><strong>Поразрядная сортировка <br>(Radix Sort)</strong></td>
+        <td>Система генерации и <br>сортировки подземелья</td>
+        <td><a href="Tasks/RadixSortTask.txt">Условие</a> | <a href="PracticeProjects/RadixSort/Program.cs">Решение</a></td>
+    </tr>
 </table>
 
 ###
