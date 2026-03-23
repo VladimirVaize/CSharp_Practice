@@ -359,9 +359,15 @@
     </tr>
     <tr>
         <td>34</td>
-        <td><strong>Пирамидальная сортировка (Кучей)<br>(Heap Sort)</strong></td>
+        <td><strong>Пирамидальная сортировка <br>(Кучей) (Heap Sort)</strong></td>
         <td></td>
         <td align="center">^^^^^ | <a href="PracticeProjects/HeapSort/Program.cs">Решение</a></td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td><strong>Сортировка выбором <br>(Selection Sort)</strong></td>
+        <td>Система сортировки заказов <br>в таверне</td>
+        <td> <a href="Tasks/SelectionSortTask.txt">Условие</a> | <a href="PracticeProjects/SelectionSort/Program.cs">Решение</a> </td>
     </tr>
 </table>
 
