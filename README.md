@@ -27,7 +27,7 @@
 
 <table>
     <tr id="основа">
-        <td colspan="4", align="center"><strong>ОСНОВА</strong></td>
+        <td colspan="4", align="center"><h3><strong>ОСНОВА</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -197,7 +197,7 @@
 
 <table>
     <tr id="работа-с-данными">
-        <td colspan="4", align="center"><strong>РАБОТА С ДАННЫМИ</strong></td>
+        <td colspan="4", align="center"><h3><strong>РАБОТА С ДАННЫМИ</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -319,7 +319,7 @@
 
 <table>
     <tr id="алгоритмы-сортировки">
-        <td colspan="4", align="center"><strong>АЛГОРИТМЫ СОРТИРОВКИ</strong></td>
+        <td colspan="4", align="center"><h3><strong>АЛГОРИТМЫ СОРТИРОВКИ</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -375,7 +375,7 @@
 
 <table>
     <tr id="порождающие-паттерны-creational">
-        <td colspan="4", align="center"><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></td>
+        <td colspan="4", align="center"><h3><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -389,7 +389,7 @@
 
 <table>
     <tr id="поведенческие-паттерны-behavioral--gamedev">
-        <td colspan="4", align="center"><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></td>
+        <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -403,7 +403,7 @@
 
 <table>
     <tr id="структурные-паттерны-structural">
-        <td colspan="4", align="center"><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></td>
+        <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -417,7 +417,7 @@
 
 <table>
     <tr id="продвинутые-темы">
-        <td colspan="4", align="center"><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></td>
+        <td colspan="4", align="center"><h3><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
