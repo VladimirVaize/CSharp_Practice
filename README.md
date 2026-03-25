@@ -381,6 +381,12 @@
         <td>Система генерации и <br>сортировки подземелья</td>
         <td><a href="Tasks/RadixSortTask.txt">Условие</a> | <a href="PracticeProjects/RadixSort/Program.cs">Решение</a></td>
     </tr>
+    <tr>
+        <td>38</td>
+        <td><strong>Сортировка слиянием <br>(Merge Sort)</strong></td>
+        <td>Система сортировки реплеев</td>
+        <td><a href="Tasks/MergeSortTask">Условие</a> | <a href="PracticeProjects/MergeSort/Program.cs">Решение</a></td>
+    </tr>
 </table>
 
 ###
