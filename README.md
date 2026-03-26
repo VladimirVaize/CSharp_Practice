@@ -387,6 +387,12 @@
         <td>Система сортировки реплеев</td>
         <td><a href="Tasks/MergeSortTask">Условие</a> | <a href="PracticeProjects/MergeSort/Program.cs">Решение</a></td>
     </tr>
+    <tr>
+        <td>39</td>
+        <td><strong>Быстрая сортировка Хоара <br>(Quick Sort)</strong></td>
+        <td>Система рендеринга <br>2D-объектов по глубине <br>(Painter's Algorithm)</td>
+        <td><a href="Tasks/QuickSortTask">Условие</a> | <a href="PracticeProjects/QuickSort/Program.cs">Решение</a></td>
+    </tr>
 </table>
 
 ###
