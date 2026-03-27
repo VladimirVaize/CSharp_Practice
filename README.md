@@ -191,11 +191,6 @@
         <td> Система крафта с защитой <br>от ошибок игрока </td>
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="работа-с-данными">
         <td colspan="4", align="center"><h3><strong>РАБОТА С ДАННЫМИ</strong></h3></td>
     </tr>
@@ -313,11 +308,6 @@
         <td> Система сохранения и <br>логирования игровых сессий <br>(Session Saver & Logger) </td>
         <td> <a href="Tasks/ResourceManagementTask.txt">Условие</a> | <a href="PracticeProjects/ResourceManagement/Program.cs">Решение</a> </td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="алгоритмы-сортировки">
         <td colspan="4", align="center"><h3><strong>АЛГОРИТМЫ СОРТИРОВКИ</strong></h3></td>
     </tr>
@@ -393,11 +383,6 @@
         <td>Система рендеринга <br>2D-объектов по глубине <br>(Painter's Algorithm)</td>
         <td><a href="Tasks/QuickSortTask.txt">Условие</a> | <a href="PracticeProjects/QuickSort/Program.cs">Решение</a></td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="порождающие-паттерны-creational">
         <td colspan="4", align="center"><h3><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational)</strong></h3></td>
     </tr>
@@ -413,11 +398,6 @@
         <td>Система логов и отладки <br>(Game Logger)</td>
         <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton/Program.cs">Решение</a></td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="поведенческие-паттерны-behavioral--gamedev">
         <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></h3></td>
     </tr>
@@ -427,11 +407,6 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="структурные-паттерны-structural">
         <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></h3></td>
     </tr>
@@ -441,11 +416,6 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
-</table>
-
-###
-
-<table>
     <tr id="продвинутые-темы">
         <td colspan="4", align="center"><h3><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></h3></td>
     </tr>
