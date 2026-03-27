@@ -399,7 +399,7 @@
 
 <table>
     <tr id="порождающие-паттерны-creational">
-        <td colspan="4", align="center"><h3><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational) (WIP)</strong></h3></td>
+        <td colspan="4", align="center"><h3><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -409,7 +409,7 @@
     </tr>
     <tr>
         <td>40</td>
-        <td><strong>Одиночка <br>(Singleton)</strong></td>
+        <td><strong>Одиночка (Singleton)</strong></td>
         <td>Система логов и отладки <br>(Game Logger)</td>
         <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton/Program.cs">Решение</a></td>
     </tr>
