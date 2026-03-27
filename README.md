@@ -407,6 +407,12 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
+    <tr>
+        <td>40</td>
+        <td><strong>Одиночка <br>(Singleton)</strong></td>
+        <td>Система логов и отладки <br>(Game Logger)</td>
+        <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton/Program.cs">Решение</a></td>
+    </tr>
 </table>
 
 ###
