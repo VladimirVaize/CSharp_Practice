@@ -91,7 +91,7 @@
     </tr>
     <tr>
         <td>10</td>
-        <td><strong>Stack - FILO</strong></td>
+        <td><strong>Stack - FILO (LIFO)</strong></td>
         <td>Система отката действий <br>(Memory Scrolls History)</td>
         <td> <a href="Tasks/StackTask.txt">Условие</a> | <a href="PracticeProjects/Stack/Program.cs">Решение</a> </td>
     </tr>
