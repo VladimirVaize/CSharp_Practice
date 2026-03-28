@@ -398,6 +398,12 @@
         <td>Система логов и отладки <br>(Game Logger)</td>
         <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton/Program.cs">Решение</a></td>
     </tr>
+    <tr>
+        <td>41</td>
+        <td><strong>Пул объектов (Object Pool)</strong></td>
+        <td>Система частиц (Particle System) <br>для консольной игры</td>
+        <td><a href="Tasks/ObjectPoolTask.txt">Условие</a> | <a href="PracticeProjects/ObjectPool/Program.cs">Решение</a></td>
+    </tr>
     <tr id="поведенческие-паттерны-behavioral--gamedev">
         <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></h3></td>
     </tr>
