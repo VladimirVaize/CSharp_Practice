@@ -404,6 +404,12 @@
         <td>Система частиц (Particle System) <br>для консольной игры</td>
         <td><a href="Tasks/ObjectPoolTask.txt">Условие</a> | <a href="PracticeProjects/ObjectPool/Program.cs">Решение</a></td>
     </tr>
+    <tr>
+        <td>42</td>
+        <td><strong>Абстрактная фабрика <br>(Abstract Factory)</strong></td>
+        <td>Система экипировки героя <br>для разных фракций</td>
+        <td><a href="Tasks/AbstractFactoryTask.txt">Условие</a> | <a href="PracticeProjects/AbstractFactory">Решение</a></td>
+    </tr>
     <tr id="поведенческие-паттерны-behavioral--gamedev">
         <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></h3></td>
     </tr>
