@@ -61,13 +61,13 @@
     </tr>
     <tr>
         <td>5</td>
-        <td><strong>Цикл Foreach</strong></td>
+        <td><strong>Цикл <code>foreach</code></strong></td>
         <td>Система инвентаря <br>и применения предметов.</td>
         <td> <a href="Tasks/TheForeachCycleTask.txt">Условие</a> | <a href="PracticeProjects/TheForeachCycle/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>6</td>
-        <td><strong>ref и out</strong></td>
+        <td><strong><code>ref</code> и <code>out</code></strong></td>
         <td>Система модификации <br>статистики персонажа.</td>
         <td> <a href="Tasks/RefAndOutTask.txt">Условие</a> | <a href="PracticeProjects/RefAndOut/Program.cs">Решение</a> </td>
     </tr>
@@ -79,25 +79,25 @@
     </tr>
     <tr>
         <td>8</td>
-        <td><strong>List</strong></td>
+        <td><strong><code>List<></code></strong></td>
         <td>Система управления врагами <br>(Wave Manager)</td>
         <td> <a href="Tasks/ListTask.txt">Условие</a> | <a href="PracticeProjects/List/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>9</td>
-        <td><strong>Queue - FIFO</strong></td>
+        <td><strong><code>Queue</code> - FIFO</strong></td>
         <td>Система спавна мобов <br>(Mobile Spawn Queue)</td>
         <td> <a href="Tasks/QueueTask.txt">Условие</a> | <a href="PracticeProjects/Queue/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>10</td>
-        <td><strong>Stack - FILO (LIFO)</strong></td>
+        <td><strong><code>Stack</code> - FILO (LIFO)</strong></td>
         <td>Система отката действий <br>(Memory Scrolls History)</td>
         <td> <a href="Tasks/StackTask.txt">Условие</a> | <a href="PracticeProjects/Stack/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>11</td>
-        <td><strong>Dictionary</strong></td>
+        <td><strong><code>Dictionary</code></strong></td>
         <td>Инвентарь и экономика для RPG</td>
         <td> <a href="Tasks/DictionaryTask.txt">Условие</a> | <a href="PracticeProjects/Dictionary/Program.cs">Решение</a> </td>
     </tr>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
         <td>20</td>
-        <td><strong>enum</strong></td>
+        <td><strong><code>enum</code></strong></td>
         <td>Система состояний врага <br>(Enemy AI State Machine)</td>
         <td> <a href="Tasks/EnumTask.txt">Условие</a> | <a href="PracticeProjects/Enum/Program.cs">Решение</a> </td>
     </tr>
@@ -175,7 +175,7 @@
     </tr>
     <tr>
         <td>24</td>
-        <td><strong>Async/await</strong></td>
+        <td><strong><code>Async</code>/<code>await</code></strong></td>
         <td>Асинхронный загрузчик уровней <br>с эмуляцией долгих операций <br>(Async Level Loader)</td>
         <td> <a href="Tasks/AsyncAndAwaitTask.txt">Условие</a> | <a href="PracticeProjects/AsyncAndAwait/Program.cs">Решение</a> </td>
     </tr>
