@@ -419,6 +419,12 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
+    <tr>
+        <td>43</td>
+        <td><strong>Состояние (State)</strong></td>
+        <td>Система поведения врага <br>с конечным автоматом</td>
+        <td><a href="Tasks/StateTask.txt">Условие</a> | <a href="PracticeProjects/State">Решение</a></td>
+    </tr>
     <tr id="структурные-паттерны-structural">
         <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></h3></td>
     </tr>
