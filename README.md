@@ -191,6 +191,13 @@
         <td> Система крафта с защитой <br>от ошибок игрока </td>
         <td> <a href="Tasks/ExceptionsTask.txt">Условие</a> | <a href="PracticeProjects/Exceptions/Program.cs">Решение</a> </td>
     </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="работа-с-данными">
         <td colspan="4", align="center"><h3><strong>РАБОТА С ДАННЫМИ</strong></h3></td>
     </tr>
@@ -308,6 +315,13 @@
         <td> Система сохранения и <br>логирования игровых сессий <br>(Session Saver & Logger) </td>
         <td> <a href="Tasks/ResourceManagementTask.txt">Условие</a> | <a href="PracticeProjects/ResourceManagement/Program.cs">Решение</a> </td>
     </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="алгоритмы-сортировки">
         <td colspan="4", align="center"><h3><strong>АЛГОРИТМЫ СОРТИРОВКИ</strong></h3></td>
     </tr>
@@ -383,6 +397,13 @@
         <td>Система рендеринга <br>2D-объектов по глубине <br>(Painter's Algorithm)</td>
         <td><a href="Tasks/QuickSortTask.txt">Условие</a> | <a href="PracticeProjects/QuickSort/Program.cs">Решение</a></td>
     </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="порождающие-паттерны-creational">
         <td colspan="4", align="center"><h3><strong>ПОРОЖДАЮЩИЕ ПАТТЕРНЫ (Creational)</strong></h3></td>
     </tr>
@@ -410,8 +431,15 @@
         <td>Система экипировки героя <br>для разных фракций</td>
         <td><a href="Tasks/AbstractFactoryTask.txt">Условие</a> | <a href="PracticeProjects/AbstractFactory">Решение</a></td>
     </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="поведенческие-паттерны-behavioral--gamedev">
-        <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev (WIP)</strong></h3></td>
+        <td colspan="4", align="center"><h3><strong>ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ (Behavioral) + GameDev</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -425,6 +453,13 @@
         <td>Система поведения врага <br>с конечным автоматом</td>
         <td><a href="Tasks/StateTask.txt">Условие</a> | <a href="PracticeProjects/State">Решение</a></td>
     </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="структурные-паттерны-structural">
         <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></h3></td>
     </tr>
