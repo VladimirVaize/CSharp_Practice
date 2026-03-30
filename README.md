@@ -402,7 +402,7 @@
         <td>41</td>
         <td><strong>Пул объектов (Object Pool)</strong></td>
         <td>Система частиц (Particle System) <br>для консольной игры</td>
-        <td><a href="Tasks/ObjectPoolTask.txt">Условие</a> | <a href="PracticeProjects/ObjectPool/Program.cs">Решение</a></td>
+        <td><a href="Tasks/ObjectPoolTask.txt">Условие</a> | <a href="PracticeProjects/ObjectPool">Решение</a></td>
     </tr>
     <tr>
         <td>42</td>
