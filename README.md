@@ -209,7 +209,7 @@
     </tr>
     <tr>
         <td> 26 </td>
-        <td><strong> Сериализация <br>(JSON, XML, бинарная) </strong></td>
+        <td><strong> Сериализация <br>(<code>JSON</code>, <code>XML</code>, бинарная) </strong></td>
         <td> Система сохранения и загрузки <br>прогресса в RPG игре <br>(Save/Load System) </td>
         <td> <a href="Tasks/SerializationTask.txt">Условие</a> | <a href="PracticeProjects/Serialization/Program.cs">Решение</a> </td>
     </tr>
@@ -243,7 +243,7 @@
     </tr>
     <tr>
         <td> 27 </td>
-        <td><strong> Работа с файловой системой <br>(System.IO) </strong></td>
+        <td><strong> Работа с файловой системой <br>(<code>System.IO</code>) </strong></td>
         <td> Система сохранения и <br>загрузки настроек игры <br>(Game Settings) </td>
         <td align="center"> <a href="Tasks/SystemIOTask.txt">Условие</a></td>
     </tr>
@@ -251,7 +251,7 @@
         <td></td>
         <td colspan="2">
             <strong>
-                Program.cs
+                <code>Program.cs</code>
                 <br>точка входа в программу. 
                 <br>Инициализирует менеджер настроек, 
                 <br>показывает выбор профиля и открывает меню настроек.
@@ -263,7 +263,7 @@
         <td></td>
         <td colspan="2">
             <strong>
-                SettingsManager.cs
+                <code>SettingsManager.cs</code>
                 <br>статический класс
                 <br>для управления профилями и настройками. 
                 <br>Создает папки, сохраняет/загружает JSON-файлы, 
@@ -277,7 +277,7 @@
         <td></td>
         <td colspan="2">
             <strong>
-                DifficultyLevel.cs
+                <code>DifficultyLevel.cs</code>
                 <br>перечисление (enum) с уровнями сложности: 
                 <br>Easy, Normal, Hard, Nightmare.
             </strong>
@@ -288,7 +288,7 @@
         <td></td>
         <td colspan="2">
             <strong>
-                GameSettings.cs
+                <code>GameSettings.cs</code>
                 <br>модель данных, хранящая настройки игрока: 
                 <br>имя, громкость, цвет фона, 
                 <br>сложность, список любимых героев.
@@ -300,7 +300,7 @@
         <td></td>
         <td colspan="2">
             <strong>
-                SettingsMenu.cs
+                <code>SettingsMenu.cs</code>
                 <br>пользовательский интерфейс для изменения настроек. 
                 <br>Позволяет редактировать все параметры, 
                 <br>вызывает сохранение и загрузку через 
@@ -311,7 +311,7 @@
     </tr>
   <tr>
         <td> 28 </td>
-        <td><strong> Управление ресурсами <br>(IDisposable, using, <br>финализаторы) </strong></td>
+        <td><strong> Управление ресурсами <br>(<code>IDisposable</code>, <code>using</code>, <br>финализаторы) </strong></td>
         <td> Система сохранения и <br>логирования игровых сессий <br>(Session Saver & Logger) </td>
         <td> <a href="Tasks/ResourceManagementTask.txt">Условие</a> | <a href="PracticeProjects/ResourceManagement/Program.cs">Решение</a> </td>
     </tr>
@@ -333,67 +333,67 @@
     </tr>
     <tr>
         <td>29</td>
-        <td><strong>Сортировка пузырьком <br>(Bubble Sort)</strong></td>
+        <td><strong>Сортировка пузырьком <br>(<code>Bubble Sort</code>)</strong></td>
         <td>Система лидерборда <br>(таблица рекордов) <br>для инди-игры</td>
         <td> <a href="Tasks/BubbleSortTask.txt">Условие</a> | <a href="PracticeProjects/BubbleSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>30</td>
-        <td><strong>Шейкерная сортировка <br>(Cocktail Sort)</strong></td>
+        <td><strong>Шейкерная сортировка <br>(<code>Cocktail Sort</code>)</strong></td>
         <td>Система слоев объектов в 2D игре</td>
         <td> <a href="Tasks/CocktailSortTask.txt">Условие</a> | <a href="PracticeProjects/CocktailSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>31</td>
-        <td><strong>Сортировка вставками <br>(Insertion Sort)</strong></td>
+        <td><strong>Сортировка вставками <br>(<code>Insertion Sort</code>)</strong></td>
         <td>Система рейтинга игроков <br>(Leaderboard)</td>
         <td> <a href="Tasks/InsertionSortTask.txt">Условие</a> | <a href="PracticeProjects/InsertionSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>32</td>
-        <td><strong>Сортировка Шелла <br>(Shell Sort)</strong></td>
+        <td><strong>Сортировка Шелла <br>(<code>Shell Sort</code>)</strong></td>
         <td>Система приоритетов обработки <br>событий в игровом движке</td>
         <td> <a href="Tasks/ShellSortTask.txt">Условие</a> | <a href="PracticeProjects/ShellSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>33</td>
-        <td><strong>Сортировка деревом <br>(Tree Sort)</strong></td>
+        <td><strong>Сортировка деревом <br>(<code>Tree Sort</code>)</strong></td>
         <td>Система квестов с приоритетами</td>
         <td> <a href="Tasks/TreeSortTask.txt">Условие</a> | <a href="PracticeProjects/TreeSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>34</td>
-        <td><strong>Пирамидальная сортировка <br>(Кучей) (Heap Sort)</strong></td>
+        <td><strong>Пирамидальная сортировка <br>(Кучей) (<code>Heap Sort</code>)</strong></td>
         <td></td>
         <td align="center">^^^^^ | <a href="PracticeProjects/HeapSort/Program.cs">Решение</a></td>
     </tr>
     <tr>
         <td>35</td>
-        <td><strong>Сортировка выбором <br>(Selection Sort)</strong></td>
+        <td><strong>Сортировка выбором <br>(<code>Selection Sort</code>)</strong></td>
         <td>Система сортировки заказов <br>в таверне</td>
         <td> <a href="Tasks/SelectionSortTask.txt">Условие</a> | <a href="PracticeProjects/SelectionSort/Program.cs">Решение</a> </td>
     </tr>
     <tr>
         <td>36</td>
-        <td><strong>Гномья сортировка <br>(Gnome Sort)</strong></td>
+        <td><strong>Гномья сортировка <br>(<code>Gnome Sort</code>)</strong></td>
         <td>Система порядка хода <br>в пошаговой RPG</td>
         <td><a href="Tasks/GnomeSortTask.txt">Условие</a> | <a href="PracticeProjects/GnomeSort/Program.cs">Решение</a></td>
     </tr>
     <tr>
         <td>37</td>
-        <td><strong>Поразрядная сортировка <br>(Radix Sort)</strong></td>
+        <td><strong>Поразрядная сортировка <br>(<code>Radix Sort</code>)</strong></td>
         <td>Система генерации и <br>сортировки подземелья</td>
         <td><a href="Tasks/RadixSortTask.txt">Условие</a> | <a href="PracticeProjects/RadixSort/Program.cs">Решение</a></td>
     </tr>
     <tr>
         <td>38</td>
-        <td><strong>Сортировка слиянием <br>(Merge Sort)</strong></td>
+        <td><strong>Сортировка слиянием <br>(<code>Merge Sort</code>)</strong></td>
         <td>Система сортировки реплеев</td>
         <td><a href="Tasks/MergeSortTask.txt">Условие</a> | <a href="PracticeProjects/MergeSort/Program.cs">Решение</a></td>
     </tr>
     <tr>
         <td>39</td>
-        <td><strong>Быстрая сортировка Хоара <br>(Quick Sort)</strong></td>
+        <td><strong>Быстрая сортировка Хоара <br>(<code>Quick Sort</code>)</strong></td>
         <td>Система рендеринга <br>2D-объектов по глубине <br>(Painter's Algorithm)</td>
         <td><a href="Tasks/QuickSortTask.txt">Условие</a> | <a href="PracticeProjects/QuickSort/Program.cs">Решение</a></td>
     </tr>
@@ -415,19 +415,19 @@
     </tr>
     <tr>
         <td>40</td>
-        <td><strong>Одиночка (Singleton)</strong></td>
-        <td>Система логов и отладки <br>(Game Logger)</td>
+        <td><strong>Одиночка (<code>Singleton</code>)</strong></td>
+        <td>Система логов и отладки <br>(<code>Game Logger</code>)</td>
         <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton">Решение</a></td>
     </tr>
     <tr>
         <td>41</td>
-        <td><strong>Пул объектов (Object Pool)</strong></td>
-        <td>Система частиц (Particle System) <br>для консольной игры</td>
+        <td><strong>Пул объектов (<code>Object Pool</code>)</strong></td>
+        <td>Система частиц (<code>Particle System</code>) <br>для консольной игры</td>
         <td><a href="Tasks/ObjectPoolTask.txt">Условие</a> | <a href="PracticeProjects/ObjectPool">Решение</a></td>
     </tr>
     <tr>
         <td>42</td>
-        <td><strong>Абстрактная фабрика <br>(Abstract Factory)</strong></td>
+        <td><strong>Абстрактная фабрика <br>(<code>Abstract Factory</code>)</strong></td>
         <td>Система экипировки героя <br>для разных фракций</td>
         <td><a href="Tasks/AbstractFactoryTask.txt">Условие</a> | <a href="PracticeProjects/AbstractFactory">Решение</a></td>
     </tr>
@@ -449,7 +449,7 @@
     </tr>
     <tr>
         <td>43</td>
-        <td><strong>Состояние (State), <br>(State Machine / FSM)</strong></td>
+        <td><strong>Состояние (<code>State</code>), <br>(<code>State Machine</code> / <code>FSM</code>)</strong></td>
         <td>Система поведения врага <br>с конечным автоматом</td>
         <td><a href="Tasks/StateTask.txt">Условие</a> | <a href="PracticeProjects/State">Решение</a></td>
     </tr>
