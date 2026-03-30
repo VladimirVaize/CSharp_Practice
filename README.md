@@ -396,7 +396,7 @@
         <td>40</td>
         <td><strong>Одиночка (Singleton)</strong></td>
         <td>Система логов и отладки <br>(Game Logger)</td>
-        <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton/Program.cs">Решение</a></td>
+        <td><a href="Tasks/SingletonTask.txt">Условие</a> | <a href="PracticeProjects/Singleton">Решение</a></td>
     </tr>
     <tr>
         <td>41</td>
