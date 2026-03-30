@@ -421,7 +421,7 @@
     </tr>
     <tr>
         <td>43</td>
-        <td><strong>Состояние (State)</strong></td>
+        <td><strong>Состояние (State), <br>(State Machine / FSM)</strong></td>
         <td>Система поведения врага <br>с конечным автоматом</td>
         <td><a href="Tasks/StateTask.txt">Условие</a> | <a href="PracticeProjects/State">Решение</a></td>
     </tr>
