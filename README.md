@@ -459,6 +459,12 @@
         <td>Система управления <br>с отменой действий (<code>Undo System</code>)</td>
         <td><a href="Tasks/CommandTask.txt">Условие</a> | <a href="PracticeProjects/Command">Решение</a></td>
     </tr>
+    <tr>
+        <td>45</td>
+        <td><strong>Стратегия (<code>Strategy</code>)</strong></td>
+        <td>Система расчета урона для RPG</td>
+        <td><a href="Tasks/PatternStrategyTask.txt">Условие</a> | <a href="PracticeProjects/PatternStrategy">Решение</a></td>
+    </tr>
 </table>
 
 ###
