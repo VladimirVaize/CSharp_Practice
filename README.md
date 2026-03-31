@@ -453,6 +453,12 @@
         <td>Система поведения врага <br>с конечным автоматом</td>
         <td><a href="Tasks/StateTask.txt">Условие</a> | <a href="PracticeProjects/State">Решение</a></td>
     </tr>
+    <tr>
+        <td>44</td>
+        <td><strong>Команда (<code>Command</code>)</strong></td>
+        <td>Система управления <br>с отменой действий (<code>Undo System</code>)</td>
+        <td><a href="Tasks/CommandTask.txt">Условие</a> | <a href="PracticeProjects/Command">Решение</a></td>
+    </tr>
 </table>
 
 ###
