@@ -78,3 +78,5 @@ pool.Return(particle);
 - [Паттерн Object Pool](https://refactoring.guru/ru/design-patterns/object-pool)
 - [Stack<T> в C#](https://learn.microsoft.com/ru-ru/dotnet/api/system.collections.generic.stack-1)
 - [Управление памятью в играх](https://learn.microsoft.com/ru-ru/dotnet/standard/garbage-collection/)
+
+### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
