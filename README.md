@@ -462,8 +462,14 @@
     <tr>
         <td>45</td>
         <td><strong>Стратегия (<code>Strategy</code>)</strong></td>
-        <td>Система расчета урона для RPG</td>
+        <td>Система расчета урона</td>
         <td><a href="Tasks/PatternStrategyTask.txt">Условие</a> | <a href="PracticeProjects/PatternStrategy">Решение</a></td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td><strong>Наблюдатель (<code>Observer</code>)</strong></td>
+        <td>Система Достижений (<code>Achievements</code>)</td>
+        <td><a href="Tasks/PatternObserverTask.txt">Условие</a> | <a href="PracticeProjects/PatternObserver">Решение</a></td>
     </tr>
 </table>
 
