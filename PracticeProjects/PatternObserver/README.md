@@ -159,6 +159,8 @@ manager.Notify(new GameEventData
 - Лишние проверки в завершенных достижениях
 - Утечки памяти (если бы наблюдатели хранились вечно)
 
+---
+
 ## ➕ Расширение системы
 
 ### 1. Добавление нового типа события
@@ -207,6 +209,8 @@ public class LoggerObserver : IObserver
 }
 ```
 
+---
+
 ## 📐 Принципы проектирования
 
 ### SOLID в действии
@@ -218,6 +222,8 @@ public class LoggerObserver : IObserver
 | `Liskov Substitution` | Любой `ICompletableObserver` может использоваться как `IObserver` |
 | `Interface Segregation` | Разделены `IObserver` и `ICompletableObserver` — UI не реализует ненужные методы |
 | `Dependency Inversion` | Наблюдатели зависят от абстракций (`IObserver`), а не от конкретных классов |
+
+---
 
 ## ✅ Преимущества реализации
 - Слабая связанность — издатель не знает о конкретных наблюдателях
