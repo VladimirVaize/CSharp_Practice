@@ -203,4 +203,12 @@ human.UseConsumable();
 - Принцип открытости/закрытости (Open/Closed Principle)
 - Инкапсуляция и полиморфизм в C#
 
+---
+
+## 👨‍💻 Автор
+
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
