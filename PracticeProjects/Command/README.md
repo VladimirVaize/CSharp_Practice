@@ -185,4 +185,12 @@ input.UndoLastCommand();  // отмена движения
 3. Возможность отмены операций — полная поддержка Undo
 4. Расширяемость — добавление новых команд не требует изменения существующего кода
 
+---
+
+## 👨‍💻 Автор
+
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
