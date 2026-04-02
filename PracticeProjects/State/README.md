@@ -81,4 +81,12 @@ State/
 - Конечный автомат (`Finite State Machine`)
 - Работа с классами и объектами
 
+---
+
+## 👨‍💻 Автор
+
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
