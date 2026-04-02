@@ -471,6 +471,12 @@
         <td>Система Достижений (<code>Achievements</code>)</td>
         <td><a href="Tasks/PatternObserverTask.txt">Условие</a> | <a href="PracticeProjects/PatternObserver">Решение</a></td>
     </tr>
+    <tr>
+        <td>47</td>
+        <td><strong>Поведенческое дерево <br>(<code>Behavior Tree</code>)</strong></td>
+        <td>Система ИИ для <br>патрулирующего охранника</td>
+        <td><a href="Tasks/PatternBehaviorTreeTask.txt">Условие</a> | <a href="PracticeProjects/PatternBehaviorTree">Решение</a></td>
+    </tr>
 </table>
 
 ###
