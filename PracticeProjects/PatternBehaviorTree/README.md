@@ -251,7 +251,6 @@ public class CheckHealthCondition : Condition
 
 - [Behavior Trees for Game AI (GDC 2015)](https://www.gdcvault.com/play/1021848/)
 - [Understanding Behavior Trees (Chris Simpson)](https://www.gamedeveloper.com/programming/behavior-trees-for-ai-how-they-work)
-- [Behavior Tree Implementation in C#](https://github.com/martin-klima/behavior-tree)
 
 ---
 
