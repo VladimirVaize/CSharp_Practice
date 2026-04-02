@@ -83,7 +83,7 @@ pool.Return(particle);
 
 ## 👨‍💻 Автор
 
-Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](https://t.me/rigelstudio_gamedev)
 
 ---
 
