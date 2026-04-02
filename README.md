@@ -485,7 +485,7 @@
 
 <table>
     <tr id="структурные-паттерны-structural">
-        <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural) (WIP)</strong></h3></td>
+        <td colspan="4", align="center"><h3><strong>СТРУКТУРНЫЕ ПАТТЕРНЫ (Structural)</strong></h3></td>
     </tr>
     <tr>
         <td><em>№</em></td>
@@ -493,6 +493,19 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
+    <tr>
+        <td>48</td>
+        <td><strong>Компоновщик (<code>Composite</code>)</strong></td>
+        <td>Система отрядов и боевых групп</td>
+        <td><a href="Tasks/PatternCompositeTask.txt">Условие</a> | <a href="PracticeProjects/PatternComposite">Решение</a></td>
+    </tr>
+</table>
+
+###
+##
+###
+
+<table>
     <tr id="продвинутые-темы">
         <td colspan="4", align="center"><h3><strong>ПРОДВИНУТЫЕ ТЕМЫ (WIP)</strong></h3></td>
     </tr>
