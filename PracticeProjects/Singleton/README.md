@@ -114,4 +114,12 @@ Singleton/
 - Управление цветом консольного вывода
 - Применение enum для уровней логирования
 
+---
+
+## 👨‍💻 Автор
+
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
