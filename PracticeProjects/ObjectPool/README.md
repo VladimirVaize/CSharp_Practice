@@ -79,4 +79,12 @@ pool.Return(particle);
 - [Stack<T> в C#](https://learn.microsoft.com/ru-ru/dotnet/api/system.collections.generic.stack-1)
 - [Управление памятью в играх](https://learn.microsoft.com/ru-ru/dotnet/standard/garbage-collection/)
 
+---
+
+## 👨‍💻 Автор
+
+Vladimir Vaize | [GitHub](https://github.com/VladimirVaize) | [Telegram Channel](t.me/rigelstudio_gamedev)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
