@@ -497,6 +497,12 @@
         <td>Система отрядов и боевых групп</td>
         <td><a href="Tasks/PatternCompositeTask.txt">Условие</a> | <a href="PracticeProjects/PatternComposite">Решение</a></td>
     </tr>
+    <tr>
+        <td>49</td>
+        <td><strong>Декоратор (<code>Decorator</code>)</strong></td>
+        <td>Система временных баффов <br>и усилений</td>
+        <td><a href="Tasks/PatternDecoratorTask.txt">Условие</a> | <a href="PracticeProjects/PatternDecorator">Решение</a></td>
+    </tr>
 </table>
 
 ###
