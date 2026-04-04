@@ -506,7 +506,7 @@
     <tr>
         <td>50</td>
         <td><strong>Фасад (<code>Facade</code>)</strong></td>
-        <td>Система запуска игры <br>(<code>Game Startup Facade<code>)</td>
+        <td>Система запуска игры <br>(<code>Game Startup Facade</code>)</td>
         <td><a href="Tasks/PatternFacadeTask.txt">Условие</a> | <a href="PracticeProjects/PatternFacade">Решение</a></td>
     </tr>
 </table>
