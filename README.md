@@ -509,6 +509,12 @@
         <td>Система запуска игры <br>(<code>Game Startup Facade</code>)</td>
         <td><a href="Tasks/PatternFacadeTask.txt">Условие</a> | <a href="PracticeProjects/PatternFacade">Решение</a></td>
     </tr>
+    <tr>
+        <td>51</td>
+        <td><strong>Посетитель (<code>Visitor</code>)</strong></td>
+        <td>Система логирования <br>боевых событий</td>
+        <td><a href="Tasks/PatternVisitorTask.txt">Условие</a> | <a href="PracticeProjects/PatternVisitor">Решение</a></td>
+    </tr>
 </table>
 
 ###
