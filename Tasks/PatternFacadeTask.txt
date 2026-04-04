@@ -1,0 +1,288 @@
+Система запуска игры (Game Startup Facade)
+
+Контекст (реальный заказ)
+
+Ты работаешь в игровой студии. К тебе пришел продюсер и сказал:
+
+"Слушай, код запуска игры превратился в ад. 
+У нас там проверка лицензии, загрузка конфигов, инициализация логгера, 
+подключение к серверу, загрузка сохранений, запуск таймера сессии... 
+Всё это размазано по 5 разным классам. Я хочу, чтобы запуск игры выглядел как одна команда: 
+game.Start(). И чтобы если что-то пошло не так — игра не запускалась, а мы получали понятную ошибку. 
+Сделай мне фасад!"
+
+Твоя задача
+
+Создать Facade для системы запуска игры, который скрывает сложность инициализации всех подсистем.
+
+Что нужно сделать
+
+Шаг 1: Создай подсистемы (их уже написал другой программист)
+
+Эти классы уже существуют в проекте. Твоя задача — не менять их, а использовать через фасад.
+
+
+// 1. Система проверки лицензии
+public class LicenseValidator
+{
+    public bool ValidateLicense(out string errorMessage)
+    {
+        // Симуляция проверки (в реальности тут обращение к серверу)
+        errorMessage = "";
+        Console.WriteLine("[License] Проверка лицензии...");
+        
+        // Для теста: допустим, лицензия валидна, если не 13 марта (можно поменять)
+        bool isValid = DateTime.Now.Day != 13;
+        
+        if (!isValid)
+            errorMessage = "Истекла лицензия";
+        
+        return isValid;
+    }
+}
+
+// 2. Система загрузки конфигурации
+public class ConfigLoader
+{
+    private Dictionary<string, string> _config = new Dictionary<string, string>();
+    
+    public bool LoadConfig(out string errorMessage)
+    {
+        errorMessage = "";
+        Console.WriteLine("[Config] Загрузка конфигурации...");
+        
+        try
+        {
+            // Симуляция загрузки (в реальности — из файла)
+            _config["game_version"] = "1.2.3";
+            _config["language"] = "ru";
+            _config["max_players"] = "100";
+            return true;
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Ошибка загрузки конфига: {ex.Message}";
+            return false;
+        }
+    }
+    
+    public string GetConfigValue(string key) => _config.TryGetValue(key, out string value) ? value : "unknown";
+}
+
+// 3. Система логгирования
+public class GameLogger
+{
+    private List<string> _logs = new List<string>();
+    
+    public void Initialize()
+    {
+        Console.WriteLine("[Logger] Инициализация логгера...");
+        _logs.Add($"--- Игра запущена {DateTime.Now} ---");
+    }
+    
+    public void Log(string message)
+    {
+        string logEntry = $"[{DateTime.Now:HH:mm:ss}] {message}";
+        _logs.Add(logEntry);
+        Console.WriteLine(logEntry);
+    }
+    
+    public void Shutdown()
+    {
+        Console.WriteLine("[Logger] Завершение работы логгера...");
+        // В реальности — запись логов в файл
+    }
+}
+
+// 4. Система сохранений
+public class SaveSystem
+{
+    public bool LoadLastSave(out string playerName, out int level, out float health)
+    {
+        Console.WriteLine("[SaveSystem] Загрузка последнего сохранения...");
+        
+        // Симуляция: есть сохранение или нет
+        bool hasSave = new Random().Next(0, 3) > 0; // 66% что есть сохранение
+        
+        if (hasSave)
+        {
+            playerName = "Герой";
+            level = 5;
+            health = 85.5f;
+            return true;
+        }
+        
+        playerName = "";
+        level = 1;
+        health = 100f;
+        return false; // нет сохранения, начинаем новую игру
+    }
+}
+
+// 5. Сетевая система
+public class NetworkService
+{
+    private bool _isConnected = false;
+    
+    public bool ConnectToServer(out string errorMessage)
+    {
+        errorMessage = "";
+        Console.WriteLine("[Network] Подключение к серверу...");
+        
+        // Симуляция (всегда успешно для теста)
+        _isConnected = true;
+        return true;
+    }
+    
+    public void Disconnect()
+    {
+        if (_isConnected)
+        {
+            Console.WriteLine("[Network] Отключение от сервера...");
+            _isConnected = false;
+        }
+    }
+}
+
+// 6. Таймер игровой сессии
+public class GameSessionTimer
+{
+    private DateTime _startTime;
+    
+    public void StartTimer()
+    {
+        _startTime = DateTime.Now;
+        Console.WriteLine($"[Timer] Сессия началась в {_startTime:HH:mm:ss}");
+    }
+    
+    public void StopTimer()
+    {
+        var duration = DateTime.Now - _startTime;
+        Console.WriteLine($"[Timer] Сессия длилась {duration.TotalSeconds:F1} секунд");
+    }
+}
+
+
+Шаг 2: Создай класс фасада GameFacade
+
+Напиши класс, который:
+
+1. Инкапсулирует все подсистемы (хранит их как приватные поля)
+2. Предоставляет простой метод StartGame() — который запускает все этапы инициализации в правильном порядке
+3. Реализует откат (rollback) — если какой-то этап не удался, уже запущенные сервисы должны корректно завершиться
+4. Предоставляет метод Shutdown() — для корректного завершения игры
+
+Порядок запуска (важен!):
+
+1. Логгер (Initialize)
+2. Лицензия (если не валидна — ошибка)
+3. Конфиг (загрузка)
+4. Сеть (подключение)
+5. Сохранения (загрузка)
+6. Таймер (запуск)
+
+Логирование: Каждый шаг должен логироваться через GameLogger
+
+Чтобы фасад возвращал понятный результат:
+
+public class GameResult
+{
+    public bool IsSuccess { get; set; }
+    public string ErrorMessage { get; set; }
+    public SaveData LoadedSave { get; set; } // если есть сохранение
+    
+    public static GameResult Success(SaveData save) => 
+        new GameResult { IsSuccess = true, LoadedSave = save };
+    
+    public static GameResult Failure(string error) => 
+        new GameResult { IsSuccess = false, ErrorMessage = error };
+}
+
+public class SaveData
+{
+    public string PlayerName { get; set; }
+    public int Level { get; set; }
+    public float Health { get; set; }
+}
+
+Шаг 4: Продемонстрируй работу в Main
+
+static void Main()
+{
+    GameFacade game = new GameFacade();
+    
+    GameResult result = game.StartGame();
+    
+    if (result.IsSuccess)
+    {
+        Console.WriteLine($"\n=== ИГРА ЗАПУЩЕНА ===");
+        if (result.LoadedSave != null)
+        {
+            Console.WriteLine($"Загружен персонаж: {result.LoadedSave.PlayerName}");
+            Console.WriteLine($"Уровень: {result.LoadedSave.Level}, Здоровье: {result.LoadedSave.Health}");
+        }
+        else
+        {
+            Console.WriteLine("Новая игра (сохранение не найдено)");
+        }
+        
+        // Симуляция игры
+        Console.WriteLine("\n[ИГРА] Нажмите Enter для выхода...");
+        Console.ReadLine();
+        
+        game.Shutdown();
+    }
+    else
+    {
+        Console.WriteLine($"\n!!! ОШИБКА ЗАПУСКА: {result.ErrorMessage}");
+    }
+}
+
+
+Требования к коду
+
+1. Фасад не должен менять подсистемы — только вызывать их методы
+2. Обработка ошибок — если ValidateLicense() вернул false, фасад должен:
+   - Записать ошибку в лог
+   - Вернуть GameResult.Failure
+   - Ничего больше не запускать
+3. Откат при ошибке на позднем этапе (например, после подключения к сети) - 
+   фасад должен корректно завершить уже запущенные сервисы
+4. Используй try-catch для методов подсистем, которые могут выбросить исключение
+
+
+Бонус (если захочешь усложнить)
+
+Добавь в фасад метод GetGameInfo() — который через публичные методы подсистем возвращает сводку о состоянии игры:
+
+- Версия игры (из конфига)
+- Статус подключения к сети
+- Количество записей в логах
+
+
+Ожидаемый вывод (успешный запуск)
+
+[Logger] Инициализация логгера...
+[01:23:45] --- Игра запущена 04.03.2026 01:23:45 ---
+[01:23:45] Начало запуска игры...
+[License] Проверка лицензии...
+[01:23:45] Лицензия валидна
+[Config] Загрузка конфигурации...
+[01:23:45] Конфигурация загружена (версия: 1.2.3)
+[Network] Подключение к серверу...
+[01:23:45] Подключение к серверу успешно
+[SaveSystem] Загрузка последнего сохранения...
+[01:23:45] Загружено сохранение: Герой (уровень 5)
+[Timer] Сессия началась в 01:23:45
+[01:23:45] Игра успешно запущена!
+
+=== ИГРА ЗАПУЩЕНА ===
+Загружен персонаж: Герой
+Уровень: 5, Здоровье: 85,5
+
+[ИГРА] Нажмите Enter для выхода...
+
+[01:23:50] Завершение игры...
+[Timer] Сессия длилась 5,2 секунд
+[Network] Отключение от сервера...
+[Logger] Завершение работы логгера...
