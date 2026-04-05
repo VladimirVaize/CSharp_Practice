@@ -235,7 +235,7 @@ Reflection/
 ---
 
 ## 🔗 Полезные ссылки
-[Microsoft Docs — Reflection in .NET](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
+[Microsoft Docs — Reflection in .NET](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)<br>
 [BindingFlags Enumeration](https://docs.microsoft.com/en-us/dotnet/api/system.reflection.bindingflags)
 
 ---
