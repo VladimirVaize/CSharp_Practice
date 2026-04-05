@@ -531,6 +531,12 @@
         <td><em>Краткое описание задачи</em></td>
         <td><em>Ссылки</em></td>
     </tr>
+    <tr>
+        <td>52</td>
+        <td><strong>Рефлексия (<code>Reflection</code>)</strong></td>
+        <td>Система отладки и дампа <br>состояния игры (<code>Game Debugger</code>)</td>
+        <td><a href="Tasks/ReflectionTask.txt">Условие</a> | <a href="PracticeProjects/Reflection">Решение</a></td>
+    </tr>
 </table>
 
 
