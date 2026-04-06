@@ -537,6 +537,12 @@
         <td>Система отладки и дампа <br>состояния игры (<code>Game Debugger</code>)</td>
         <td><a href="Tasks/ReflectionTask.txt">Условие</a> | <a href="PracticeProjects/Reflection">Решение</a></td>
     </tr>
+    <tr>
+        <td>53</td>
+        <td><strong><code>Service Locator</code></strong></td>
+        <td>Система звукового менеджера <br>с Service Locator</td>
+        <td><a href="Tasks/PatternServiceLocatorTask.txt">Условие</a> | <a href="PracticeProjects/PatternServiceLocator">Решение</a></td>
+    </tr>
 </table>
 
 
