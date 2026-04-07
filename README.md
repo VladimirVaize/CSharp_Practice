@@ -543,6 +543,12 @@
         <td>Система звукового менеджера <br>с Service Locator</td>
         <td><a href="Tasks/PatternServiceLocatorTask.txt">Условие</a> | <a href="PracticeProjects/PatternServiceLocator">Решение</a></td>
     </tr>
+    <tr>
+        <td>54</td>
+        <td><strong><code>Entry point</code></strong></td>
+        <td>Модульная система запуска <br>игрового сервера</td>
+        <td><a href="Tasks/EntryPointTask.txt">Условие</a> | <a href="PracticeProjects/EntryPoint">Решение</a></td>
+    </tr>
 </table>
 
 
